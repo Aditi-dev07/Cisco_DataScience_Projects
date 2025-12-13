@@ -1,0 +1,280 @@
+country,currency,name,gender,occupation,value,first_appearance,death,first_death_diff,currency_code
+Argentina,Argentine Peso,Eva Perón,F,Activist,100,2012,1952,60,ARS
+Argentina,Argentine Peso,Julio Argentino Roca,M,Head of Gov't,100,1988,1914,74,ARS
+Argentina,Argentine Peso,Domingo Faustino Sarmiento,M,Head of Gov't,50,1999,1888,111,ARS
+Argentina,Argentine Peso,Juan Manuel de Rosas,M,Politician,20,1992,1877,115,ARS
+Argentina,Argentine Peso,Manuel Belgrano,M,Founder,10,1970,1820,150,ARS
+Australia,Australian Dollar,David Unaipon,M,STEM,50,1995,1967,28,AUD
+Australia,Australian Dollar,Mary Gilmore,F,Writer,10,1993,1962,31,AUD
+Australia,Australian Dollar,Reverend John Flynn,M,Religious figure,20,1994,1951,43,AUD
+Australia,Australian Dollar,Banjo Paterson,M,Writer,10,1993,1941,52,AUD
+Australia,Australian Dollar,Edith Cowan,F,Politician,50,1995,1932,63,AUD
+Australia,Australian Dollar,Nellie Melba,F,Musician,100,1996,1931,65,AUD
+Australia,Australian Dollar,Sir John Monash,M,Military,100,1996,1931,65,AUD
+Australia,Australian Dollar,Mary Reibey,F,Other,20,1994,1855,139,AUD
+Australia,Australian Dollar,Queen Elizabeth II,F,Monarch,5,1961,,,AUD
+Bangladesh,Bangladeshi Taka,Bangabandhu Sheikh Mujibur Rahman,M,Founder,20,1972,1975,-3,BDT
+Bangladesh,Bangladeshi Taka,Bangabandhu Sheikh Mujibur Rahman,M,Founder,1000,1972,1975,-3,BDT
+Bangladesh,Bangladeshi Taka,Bangabandhu Sheikh Mujibur Rahman,M,Founder,500,1972,1975,-3,BDT
+Bangladesh,Bangladeshi Taka,Bangabandhu Sheikh Mujibur Rahman,M,Founder,200,1972,1975,-3,BDT
+Bangladesh,Bangladeshi Taka,Bangabandhu Sheikh Mujibur Rahman,M,Founder,100,1972,1975,-3,BDT
+Bangladesh,Bangladeshi Taka,Bangabandhu Sheikh Mujibur Rahman,M,Founder,50,1972,1975,-3,BDT
+Bangladesh,Bangladeshi Taka,Bangabandhu Sheikh Mujibur Rahman,M,Founder,10,1972,1975,-3,BDT
+Bangladesh,Bangladeshi Taka,Bangabandhu Sheikh Mujibur Rahman,M,Founder,5,1972,1975,-3,BDT
+Bangladesh,Bangladeshi Taka,Bangabandhu Sheikh Mujibur Rahman,M,Founder,2,1972,1975,-3,BDT
+Bolivia,Bolivian Boliviano,Bruno Racua,M,Military,50,2018,1932,86,BOB
+Bolivia,Bolivian Boliviano,Pablo Zárate Willka,M,Revolutionary,50,2018,1905,113,BOB
+Bolivia,Bolivian Boliviano,Apiaguaiki Tüpa,M,Revolutionary,10,2018,1892,126,BOB
+Bolivia,Bolivian Boliviano,Antonio José de Sucre,M,Founder,100,1962,1830,132,BOB
+Bolivia,Bolivian Boliviano,Simón Bolívar,M,Founder,200,1962,1830,132,BOB
+Bolivia,Bolivian Boliviano,Juana Azurduy de Padilla,F,Revolutionary,100,2018,1862,156,BOB
+Bolivia,Bolivian Boliviano,"José Manuel Baca ""Cañoto""",M,Military,50,2018,1854,164,BOB
+Bolivia,Bolivian Boliviano,José Santos Vargas,M,Revolutionary,10,2018,1854,164,BOB
+Bolivia,Bolivian Boliviano,Eustaquio Méndez,M,Revolutionary,10,2018,1849,169,BOB
+Bolivia,Bolivian Boliviano,Pedro Ignacio Muiba,M,Revolutionary,20,2018,1811,207,BOB
+Bolivia,Bolivian Boliviano,Bartolina Sisa,F,Revolutionary,200,2019,1782,237,BOB
+Bolivia,Bolivian Boliviano,Tomás Katari,M,Revolutionary,20,2018,1781,237,BOB
+Bolivia,Bolivian Boliviano,Tupac Katari (Julian Apasa Nina),M,Revolutionary,200,2019,1781,238,BOB
+Bolivia,Bolivian Boliviano,Alejo Calatayud,M,Revolutionary,100,2018,1731,287,BOB
+Bolivia,Bolivian Boliviano,Genoveva Ríos,F,Other,20,2018,,,BOB
+Canada,Canadian Dollar,Sir Wilfrid Laurier,M,Head of Gov't,5,1935,1919,16,CAD
+Canada,Canadian Dollar,William Lyon Mackenzie King,M,Head of Gov't,50,1975,1950,25,CAD
+Canada,Canadian Dollar,Sir Robert Borden,M,Head of Gov't,100,1969,1937,32,CAD
+Canada,Canadian Dollar,James Gladstone (Akay-na-muka),M,Politician,10,2017,1971,46,CAD
+Canada,Canadian Dollar,Viola Desmond,F,Activist,10,2018,1965,53,CAD
+Canada,Canadian Dollar,Agnes Macphail,F,Politician,10,2017,1954,63,CAD
+Canada,Canadian Dollar,John A. Macdonald,M,Founder,10,1971,1891,80,CAD
+Canada,Canadian Dollar,Sir George-Étienne Cartier,M,Head of Gov't,10,2017,1873,144,CAD
+Canada,Canadian Dollar,Queen Elizabeth II,F,Monarch,20,1935,-,,CAD
+Cape Verde,Cape Verdean Escudo,Cesária Évora,F,Musician,2000,2014,2011,3,CVE
+Cape Verde,Cape Verdean Escudo,Aristides Maria Pereira,M,Founder,5000,2014,2011,3,CVE
+Cape Verde,Cape Verdean Escudo,Codé Di Dona,M,Musician,1000,2014,2010,4,CVE
+Cape Verde,Cape Verdean Escudo,Henrique Teixeira de Sousa,M,Writer,200,2014,2006,8,CVE
+Cape Verde,Cape Verdean Escudo,Jorge Barbosa,M,Writer,500,2014,1971,43,CVE
+Chile,Chilean Peso,Gabriela Mistral,F,Writer,5000,1981,1957,24,CLP
+Chile,Chilean Peso,Ignacio Carrera Pinto,M,Military,1000,1978,1882,96,CLP
+Chile,Chilean Peso,Arturo Prat Chacón,M,Military,10000,1989,1879,110,CLP
+Chile,Chilean Peso,Andrés Bello,M,Politician,20000,1998,1865,133,CLP
+Chile,Chilean Peso,Manuel Rodríguez Erdoyza,M,Founder,2000,1997,1818,179,CLP
+China,Chinese Yuan,Mao Zedong,M,Founder,1,1980,1976,4,CNY
+China,Chinese Yuan,Mao Zedong,M,Founder,5,1980,1976,4,CNY
+China,Chinese Yuan,Mao Zedong,M,Founder,10,1980,1976,4,CNY
+China,Chinese Yuan,Mao Zedong,M,Founder,20,1980,1976,4,CNY
+China,Chinese Yuan,Mao Zedong,M,Founder,50,1980,1976,4,CNY
+China,Chinese Yuan,Mao Zedong,M,Founder,100,1980,1976,4,CNY
+Colombia,Colombian Peso,Gabriel García Márquez,M,Writer,50000,2015,2014,1,COP
+Colombia,Colombian Peso,Alfonso López Michelsen,M,Head of Gov't,20000,2015,2007,8,COP
+Colombia,Colombian Peso,Debora Arango,F,Visual Artist,2000,2015,2005,10,COP
+Colombia,Colombian Peso,Virginia Gutiérrez,F,STEM,10000,2015,1999,16,COP
+Colombia,Colombian Peso,Carlos Lleras Restrepo,M,Head of Gov't,100000,2014,1994,20,COP
+Colombia,Colombian Peso,Jorge Eliécer Gaitán,M,Politician,1000,2001,1948,53,COP
+Colombia,Colombian Peso,Julio Garavito Armero,M,STEM,20000,1996,1920,76,COP
+Colombia,Colombian Peso,José Asunción Silva,M,Writer,5000,1995,1896,99,COP
+Colombia,Colombian Peso,Jorge Isaacs,M,Writer,50000,2000,1895,105,COP
+Colombia,Colombian Peso,Francisco de Paula Santander,M,Founder,2000,1958,1840,118,COP
+Colombia,Colombian Peso,Policarpa Salavarrieta,F,Other,10000,1995,1817,178,COP
+Costa Rica,Costa Rican Colon,José Figueres,M,Head of Gov't,10000,2009,1990,19,CRC
+Costa Rica,Costa Rican Colon,Alfredo González Flores,M,Head of Gov't,5000,2009,1962,47,CRC
+Costa Rica,Costa Rican Colon,María Isabel Carvajal (Carmen Lyra),F,Writer,20000,2009,1949,60,CRC
+Costa Rica,Costa Rican Colon,Ricardo Jiménez Oreamuno,M,Head of Gov't,50000,1971,1945,26,CRC
+Costa Rica,Costa Rican Colon,Mauro Fernández Acuña,M,Politician,2000,2009,1905,104,CRC
+Costa Rica,Costa Rican Colon,Braulio Carrillo Colina,M,Head of Gov't,1000,2009,1845,164,CRC
+Czech Republic,Czech Koruna,Tomáš Garrigue Masaryk,M,Head of Gov't,5000,1993,1937,56,CZK
+Czech Republic,Czech Koruna,Ema Destinnová,F,Musician,2000,1996,1930,66,CZK
+Czech Republic,Czech Koruna,František Palacký,M,Politician,1000,1993,1876,117,CZK
+Czech Republic,Czech Koruna,Božena Němcová,F,Writer,500,1993,1862,131,CZK
+Czech Republic,Czech Koruna,John Amos Comenius,M,Educator,200,1993,1670,323,CZK
+Czech Republic,Czech Koruna,Charles IV,M,Monarch,100,1993,1378,615,CZK
+Dominican Republic,Peso Dominicano,Patria Mirabal,F,Revolutionary,200,2007,1960,47,DOP
+Dominican Republic,Peso Dominicano,Minerva Mirabal,F,Revolutionary,200,2007,1960,47,DOP
+Dominican Republic,Peso Dominicano,María Teresa Mirabal,F,Revolutionary,200,2007,1960,47,DOP
+Dominican Republic,Peso Dominicano,Pedro Henriquez Ureña,M,Writer,500,2000,1946,54,DOP
+Dominican Republic,Peso Dominicano,Emilio Prud'Homme,M,Politician,2000,2000,1932,68,DOP
+Dominican Republic,Peso Dominicano,Juan Pablo Duarte,M,Founder,100,1962,1876,86,DOP
+Dominican Republic,Peso Dominicano,José Rufino Reyes y Siancas,M,Musician,2000,2000,1905,95,DOP
+Dominican Republic,Peso Dominicano,Matías Ramón Mella,M,Founder,100,1962,1864,98,DOP
+Dominican Republic,Peso Dominicano,Francisco del Rosario Sánchez,M,Founder,100,1962,1861,101,DOP
+Dominican Republic,Peso Dominicano,Gregorio Luperon,M,Head of Gov't,20,2000,1897,103,DOP
+Dominican Republic,Peso Dominicano,Salomé Ureña,F,Writer,500,2000,1897,103,DOP
+England,Pound Stirling,Winston Churchill,M,Head of Gov't,5,2016,1965,51,GBP
+England,Pound Stirling,Alan Turing,M,STEM,50,2021,1954,67,GBP
+England,Pound Stirling,J.M.W. Turner,M,Visual Artist,20,2020,1851,169,GBP
+England,Pound Stirling,Jane Austen,F,Writer,10,2017,1817,200,GBP
+England,Pound Stirling,Queen Elizabeth II,F,Monarch,5,1963,,,GBP
+England,Pound Stirling,Queen Elizabeth II,F,Monarch,10,1964,,,GBP
+England,Pound Stirling,Queen Elizabeth II,F,Monarch,20,1970,,,GBP
+England,Pound Stirling,Queen Elizabeth II,F,Monarch,50,1981,,,GBP
+Georgia,Georgian Lari,Ivane Javakhishvili,M,Educator,5,1995,1940,55,GEL
+Georgia,Georgian Lari,Zakaria Paliashvili,M,Musician,2,1995,1933,62,GEL
+Georgia,Georgian Lari,Kaikhosro (Kakutsa) Cholokashvili,M,Military,200,2006,1930,76,GEL
+Georgia,Georgian Lari,Niko Pirosmanashvili,M,Visual Artist,1,1995,1918,77,GEL
+Georgia,Georgian Lari,Akaki Tsereteli,M,Writer,10,1995,1915,80,GEL
+Georgia,Georgian Lari,Ilia Chavchavadze,M,Founder,20,1995,1907,88,GEL
+Georgia,Georgian Lari,Queen Tamar,F,Monarch,50,1995,1213,782,GEL
+Georgia,Georgian Lari,Shota Rustaveli,M,Writer,100,2004,1220,784,GEL
+Georgia,Georgian Lari,King David IV,M,Monarch,500,1995,1125,870,GEL
+Iceland,Icelandic Krona,Jóhannes S. Kjarval,M,Visual Artist,2000,1995,1972,23,ISK
+Iceland,Icelandic Krona,Jón Sigurdsson,M,Founder,500,1981,1879,102,ISK
+Iceland,Icelandic Krona,Jónas Hallgrímsson,M,Writer,10000,2013,1845,168,ISK
+Iceland,Icelandic Krona,Ragnheiður Jónsdóttir,F,Visual Artist,5000,1986,1715,271,ISK
+Iceland,Icelandic Krona,Brynjólfur Sveinsson,M,Writer,1000,1984,1675,309,ISK
+Indonesia,Indonesian Rupiah,Soekarno,M,Head of Gov't,100000,1945,1970,-25,IDR
+Indonesia,Indonesian Rupiah,Idham Chalid,M,Politician,5000,2016,2010,6,IDR
+Indonesia,Indonesian Rupiah,Mohammad Hatta,M,Head of Gov't,100000,2016,1980,36,IDR
+Indonesia,Indonesian Rupiah,Frans Kaisiepo,M,Politician,10000,2016,1979,37,IDR
+Indonesia,Indonesian Rupiah,Djuanda Kartawidjaja,M,Head of Gov't,50000,2016,1963,53,IDR
+Indonesia,Indonesian Rupiah,Oto Iskander Di Nata,M,Politician,20000,1999,1945,54,IDR
+Indonesia,Indonesian Rupiah,Gusti Ngurah Rai,M,Military,50000,2005,1946,59,IDR
+Indonesia,Indonesian Rupiah,GSSJ Ratulangi,M,Politician,20000,2016,1949,67,IDR
+Indonesia,Indonesian Rupiah,Mohammad Husni Thamrin,M,Politician,2000,2016,1941,75,IDR
+Indonesia,Indonesian Rupiah,Tjut Meutia,F,Revolutionary,1000,1998,1910,88,IDR
+Indonesia,Indonesian Rupiah,Prince Antasari,M,Monarch,2000,2009,1862,147,IDR
+Indonesia,Indonesian Rupiah,Sultan Mahmud Badaruddin II,M,Monarch,10000,2005,1852,153,IDR
+Israel,Israeli New Shekel,Nathan Alterman,M,Writer,200,2015,1970,45,ILS
+Israel,Israeli New Shekel,Leah Goldberg,F,Writer,100,2017,1970,47,ILS
+Israel,Israeli New Shekel,Shaul Tchernichovsky,M,Writer,50,2014,1943,71,ILS
+Israel,Israeli New Shekel,Rachel Bluwstein,F,Writer,20,2017,1931,86,ILS
+Jamaica,Jamaican Dollar,Michael Norman Manley,M,Head of Gov't,500,1970,1992,-22,JMD
+Jamaica,Jamaican Dollar,Hugh Lawson Shearer,M,Head of Gov't,1000,2009,2004,5,JMD
+Jamaica,Jamaican Dollar,Sir Donald Sangster,M,Politician,100,1986,1967,19,JMD
+Jamaica,Jamaican Dollar,Samuel Sharpe,M,Revolutionary,50,1986,1832,154,JMD
+Jamaica,Jamaican Dollar,Nanny of the Maroons,F,Revolutionary,500,1994,1734,260,JMD
+Japan,Japanese Yen,Hideyo Noguchi,M,STEM,1000,2004,1928,76,JPY
+Japan,Japanese Yen,Yukichi Fukuzawa,M,Writer,10000,1984,1901,83,JPY
+Japan,Japanese Yen,Ichiyo Higuchi,F,Writer,5000,2004,1896,108,JPY
+Kyrgyzstan,Kyrgystani Som,Suymonkul Chokmorov,M,Performer,5000,2009,1992,17,KGS
+Kyrgyzstan,Kyrgystani Som,Sayakbay Karalaev,M,Performer,500,2000,1971,29,KGS
+Kyrgyzstan,Kyrgystani Som,Alykul Osmonov,M,Writer,200,2000,1950,50,KGS
+Kyrgyzstan,Kyrgystani Som,Togolok Moldo,M,Writer,20,1994,1942,52,KGS
+Kyrgyzstan,Kyrgystani Som,Toktogul Satylganov,M,Writer,100,1994,1933,61,KGS
+Kyrgyzstan,Kyrgystani Som,Kurmanjan Datka,F,Politician,50,1994,1907,87,KGS
+Kyrgyzstan,Kyrgystani Som,Jusup Balasagyn,M,Writer,1000,2000,1077,923,KGS
+Malawi,Malawian Kwacha,Dr. Hastings Kamuzu Banda,M,Head of Gov't,1000,1971,1997,-26,MWK
+Malawi,Malawian Kwacha,Rose Lomathinda Chibambo,F,Politician,200,2012,2016,-4,MWK
+Malawi,Malawian Kwacha,Inkosi ya Makhosi M'mbelwa II,M,Monarch,20,2012,1959,53,MWK
+Malawi,Malawian Kwacha,Inkosi Ya Mokhosi Gomani II,M,Monarch,50,2012,1954,58,MWK
+Malawi,Malawian Kwacha,Reverend John Chilembwe,M,Revolutionary,500,1997,1915,82,MWK
+Malawi,Malawian Kwacha,Reverend John Chilembwe,M,Revolutionary,2000,1997,1915,82,MWK
+Malawi,Malawian Kwacha,James Federick Sangala,M,Politician,100,2012,1974,38,MWK
+Mexico,Peso Mexicano,Diego Rivera,M,Visual Artist,500,2010,1957,53,MXN
+Mexico,Peso Mexicano,Frida Kahlo,F,Visual Artist,500,2010,1954,56,MXN
+Mexico,Peso Mexicano,Francisco I. Madero,M,Head of Gov't,1000,1979,1913,66,MXN
+Mexico,Peso Mexicano,Hermila Galindo,F,Writer,1000,2020,1954,66,MXN
+Mexico,Peso Mexicano,Carmen Serdán,F,Revolutionary,1000,2020,1948,72,MXN
+Mexico,Peso Mexicano,Benito Juárez,M,Head of Gov't,500,1973,1872,101,MXN
+Mexico,Peso Mexicano,Benito Juárez,M,Head of Gov't,20,1973,1872,101,MXN
+Mexico,Peso Mexicano,Miguel Hidalgo,M,Founder,200,1945,1811,134,MXN
+Mexico,Peso Mexicano,José María Morelos,M,Founder,200,1972,1815,157,MXN
+Mexico,Peso Mexicano,Sor Juana Inés de la Cruz,F,Religious figure,100,1978,1695,283,MXN
+Mexico,Peso Mexicano,Nezahualcóyotl,M,Monarch,100,1994,1472,522,MXN
+New Zealand,New Zealand Dollar,Edmund Hillary,M,Other,5,1992,2008,-16,NZD
+New Zealand,New Zealand Dollar,Apirana Ngata,M,Politician,50,1992,1950,42,NZD
+New Zealand,New Zealand Dollar,Rutherford of Nelson,M,STEM,100,1992,1937,55,NZD
+New Zealand,New Zealand Dollar,Kate Sheppard,F,Activist,10,1992,1934,58,NZD
+New Zealand,New Zealand Dollar,Queen Elizabeth II,F,Monarch,20,1967,,,NZD
+Nigeria,Nigerian Naira,General Murtala Mohammed,M,Head of Gov't,20,1977,1976,1,NGN
+Nigeria,Nigerian Naira,Dr. Nnamdi Azikiwe,M,Founder,500,2001,1996,5,NGN
+Nigeria,Nigerian Naira,Dr. Clement Isong,M,STEM,1000,2005,2000,5,NGN
+Nigeria,Nigerian Naira,Dr. Alvan Ikoku,M,Politician,10,1979,1971,8,NGN
+Nigeria,Nigerian Naira,Chief Obafemi Awolowo,M,Founder,100,1999,1987,12,NGN
+Nigeria,Nigerian Naira,Alhaji Sir Abubarkar Tafawa Balewa,M,Head of Gov't,5,1979,1966,13,NGN
+Nigeria,Nigerian Naira,Ladi Kwali,F,Visual Artist,20,2007,1984,23,NGN
+Nigeria,Nigerian Naira,Alhaji Sir Ahmadu Bello,M,Founder,200,2000,1966,34,NGN
+Nigeria,Nigerian Naira,Alhaji Aliyu Mai-Bornu,M,STEM,1000,2005,1970,35,NGN
+Papua New Guinea,Papua New Guinean Kina,Michael Somare,M,Founder,50,1989,2021,-32,PGK
+Peru,Peruvian Sol,Jorge Basadre Grohmann,M,Politician,100,1991,1980,11,PEN
+Peru,Peruvian Sol,Raúl Porras Barrenechea,M,Politician,20,1991,1960,31,PEN
+Peru,Peruvian Sol,María Isabel Granda y Larco,F,Musician,10,2021,1983,38,PEN
+Peru,Peruvian Sol,José Abelardo Quiñones Gonzales,M,Military,10,1991,1941,50,PEN
+Peru,Peruvian Sol,Abraham Valdelomar Pinto,M,Writer,50,1991,1919,72,PEN
+Peru,Peruvian Sol,Pedro Paulet,M,STEM,100,2021,1945,76,PEN
+Peru,Peruvian Sol,Santa Rosa de Lima,F,Religious figure,200,1995,1617,378,PEN
+Philippines,Philippine Piso,Corazon C. Aquino,F,Head of Gov't,500,2010,2009,1,PHP
+Philippines,Philippine Piso,Manuel A. Roxas,M,Head of Gov't,100,1949,1948,1,PHP
+Philippines,Philippine Piso,"Benigno S. Aquino, Jr.",M,Politician,500,1987,1983,4,PHP
+Philippines,Philippine Piso,Diosdado P. Macapagal,M,Head of Gov't,200,2002,1997,5,PHP
+Philippines,Philippine Piso,Manuel L. Quezon,M,Head of Gov't,20,1949,1944,5,PHP
+Philippines,Philippine Piso,Sergio Osmeña,M,Head of Gov't,50,1969,1961,8,PHP
+Philippines,Philippine Piso,Josefa Llanes Escoda,F,Activist,1000,1991,1945,46,PHP
+Philippines,Philippine Piso,Vicente Lim,M,Military,1000,1991,1944,47,PHP
+Philippines,Philippine Piso,José Abad Santos,M,Politician,1000,1991,1942,49,PHP
+São Tomé and Príncipe,Dobra,Francisco José Tenreiro,M,Writer,100000,2013,1963,50,STD
+São Tomé and Príncipe,Dobra,Rei Amador,M,Revolutionary,200,1977,1596,381,STD
+São Tomé and Príncipe,Dobra,Rei Amador,M,Revolutionary,500,1977,1596,381,STD
+São Tomé and Príncipe,Dobra,Rei Amador,M,Revolutionary,1000,1977,1596,381,STD
+São Tomé and Príncipe,Dobra,Rei Amador,M,Revolutionary,5000,1977,1596,381,STD
+São Tomé and Príncipe,Dobra,Rei Amador,M,Revolutionary,10000,1977,1596,381,STD
+São Tomé and Príncipe,Dobra,Rei Amador,M,Revolutionary,20000,1977,1596,381,STD
+São Tomé and Príncipe,Dobra,Rei Amador,M,Revolutionary,50000,1977,1596,381,STD
+Serbia,Serbian Dinar,Slobodan Jovanovic,M,Head of Gov't,5000,2003,1958,45,RSD
+Serbia,Serbian Dinar,Milutin Milanković,M,STEM,2000,2011,1958,53,RSD
+Serbia,Serbian Dinar,Nikola Tesla,M,STEM,100,2003,1943,60,RSD
+Serbia,Serbian Dinar,Dorde Vajfert,M,Other,1000,2003,1937,66,RSD
+Serbia,Serbian Dinar,Jovan Cvijic,M,STEM,500,2004,1927,77,RSD
+Serbia,Serbian Dinar,Nadežda Petrović,F,Visual Artist,200,2005,1915,90,RSD
+Serbia,Serbian Dinar,Stevan Stevanovic Mokranjac,M,Musician,50,2005,1914,91,RSD
+Serbia,Serbian Dinar,Vuk Stefanovic Karadžic,M,Writer,10,2006,1864,142,RSD
+Serbia,Serbian Dinar,Petar Petrovic Njegoš,M,Writer,20,2006,1851,155,RSD
+South Africa,South African Rand,Nelson Mandela,M,Head of Gov't,10,2012,2013,-1,ZAR
+South Africa,South African Rand,Nelson Mandela,M,Head of Gov't,20,2012,2013,-1,ZAR
+South Africa,South African Rand,Nelson Mandela,M,Head of Gov't,50,2012,2013,-1,ZAR
+South Africa,South African Rand,Nelson Mandela,M,Head of Gov't,100,2012,2013,-1,ZAR
+South Africa,South African Rand,Nelson Mandela,M,Head of Gov't,200,2012,2013,-1,ZAR
+South Korea,Korean Won,Yi I,M,Writer,5000,1972,1584,388,KRW
+South Korea,Korean Won,Yi Hwang,M,Writer,1000,1975,1570,405,KRW
+South Korea,Korean Won,Shin Saimdang,F,Visual Artist,50000,2009,1551,458,KRW
+South Korea,Korean Won,King Sejong the Great,M,Monarch,10000,1973,1450,523,KRW
+Sweden,Swedish Krona,Ingmar Bergman,M,Visual Artist,200,2015,2007,8,SEK
+Sweden,Swedish Krona,Birgit Nilsson,F,Musician,500,2016,2005,11,SEK
+Sweden,Swedish Krona,Astrid Lindgren,F,Writer,20,2015,2002,13,SEK
+Sweden,Swedish Krona,Greta Garbo,F,Performer,100,2015,1990,25,SEK
+Sweden,Swedish Krona,Evert Taube,M,Musician,50,2015,1976,39,SEK
+Sweden,Swedish Krona,Dag Hammarskiöld,M,Politician,1000,2015,1961,54,SEK
+Tunisia,Tunisian Dinar,Tewhida Ben Sheikh,F,STEM,10,2020,2010,10,TND
+Tunisia,Tunisian Dinar,Farhat Hached,M,Revolutionary,20,2017,1952,65,TND
+Tunisia,Tunisian Dinar,Abou el Kacem Chebbi,M,Writer,10,2013,1935,78,TND
+Tunisia,Tunisian Dinar,Hannibal,M,Military,5,2013,-183,2196,TND
+Turkey,Turkish Lira,Kemal Atatürk,M,Founder,5,1927,1938,-11,TRY
+Turkey,Turkish Lira,Kemal Atatürk,M,Founder,10,1927,1938,-11,TRY
+Turkey,Turkish Lira,Kemal Atatürk,M,Founder,20,1927,1938,-11,TRY
+Turkey,Turkish Lira,Kemal Atatürk,M,Founder,50,1927,1938,-11,TRY
+Turkey,Turkish Lira,Kemal Atatürk,M,Founder,100,1927,1938,-11,TRY
+Turkey,Turkish Lira,Kemal Atatürk,M,Founder,200,1927,1938,-11,TRY
+Turkey,Turkish Lira,Cahit Arf,M,STEM,10,2009,1997,12,TRY
+Turkey,Turkish Lira,Aydın Sayılı,M,Writer,5,2009,1993,16,TRY
+Turkey,Turkish Lira,Fatma Aliye Topuz,F,Writer,50,2009,1936,73,TRY
+Turkey,Turkish Lira,Kemaleddin,M,Visual Artist,20,2009,1927,82,TRY
+Turkey,Turkish Lira,Itri (Buhurizade Mustafa Efendi),M,Musician,100,2009,1712,297,TRY
+Turkey,Turkish Lira,Yunus Emre,M,Writer,200,2009,1320,689,TRY
+Ukraine,Ukrainian Hryvna,Mykhailo Hrusheskyi,M,Politician,50,1992,1934,58,UAH
+Ukraine,Ukrainian Hryvna,Volodymyr Vernadskyi,M,STEM,1000,2019,1945,74,UAH
+Ukraine,Ukrainian Hryvna,Ivan Franko,M,Writer,20,1992,1916,76,UAH
+Ukraine,Ukrainian Hryvna,Lesya Ukrainka,F,Writer,200,2001,1913,88,UAH
+Ukraine,Ukrainian Hryvna,Taras Shevchenko,M,Writer,100,1992,1841,151,UAH
+Ukraine,Ukrainian Hryvna,Hryhoriy Skovoroda,M,Writer,500,2006,1794,212,UAH
+Ukraine,Ukrainian Hryvna,Ivan Mazepa,M,Head of Gov't,10,1992,1709,283,UAH
+Ukraine,Ukrainian Hryvna,Bogdan Khmelnitsky,M,Head of Gov't,5,1992,1657,335,UAH
+Ukraine,Ukrainian Hryvna,Yaroslav the Wise,M,Monarch,2,1992,1054,938,UAH
+Ukraine,Ukrainian Hryvna,Volodymyr the Great,M,Monarch,1,1992,1015,977,UAH
+United States,US Dollar,Ulysses S. Grant,M,Head of Gov't,50,1913,1885,28,USD
+United States,US Dollar,Thomas Jefferson,M,Founder,2,1869,1826,43,USD
+United States,US Dollar,Abraham Lincoln,M,Head of Gov't,5,1914,1865,49,USD
+United States,US Dollar,George Washington,M,Founder,1,1869,1799,70,USD
+United States,US Dollar,Andrew Jackson,M,Head of Gov't,20,1928,1845,83,USD
+United States,US Dollar,Benjamin Franklin,M,Founder,100,1914,1790,124,USD
+United States,US Dollar,Alexander Hamilton,M,Founder,10,1929,1804,125,USD
+Uruguay,Peso Uruguayo,Juana de Ibarbourou,F,Writer,1000,1995,1979,16,UYU
+Uruguay,Peso Uruguayo,Eduardo Fabini,M,Musician,100,1994,1950,44,UYU
+Uruguay,Peso Uruguayo,Juan Zorrilla de San Martín,M,Writer,20,1994,1931,63,UYU
+Uruguay,Peso Uruguayo,Alfredo Vásquez Acevedo,M,Politician,500,1994,1923,71,UYU
+Uruguay,Peso Uruguayo,Pedro Figari,M,Visual Artist,200,2015,1938,77,UYU
+Uruguay,Peso Uruguayo,José Pedro Varela,M,Educator,50,1994,1879,115,UYU
+Uruguay,Peso Uruguayo,Dámaso Antonio Larrañaga,M,STEM,2000,2003,1848,155,UYU
+Venezuela,Venezuelan Bolivar,Simón Bolívar,M,Founder,500,1940,1830,110,VES
+Venezuela,Venezuelan Bolivar,Antonio José de Sucre,M,Founder,50,1945,1830,115,VES
+Venezuela,Venezuelan Bolivar,Josefa Camejo,F,Revolutionary,2,2018,1870,148,VES
+Venezuela,Venezuelan Bolivar,Francisco de Miranda,M,Military,200,1968,1816,152,VES
+Venezuela,Venezuelan Bolivar,Simón Rodrigues,M,Educator,20,2007,1854,153,VES
+Venezuela,Venezuelan Bolivar,Ezequiel Zamora,M,Military,100,2018,1860,158,VES
+Venezuela,Venezuelan Bolivar,Rafael Urdaneta,M,Head of Gov't,10,2018,1845,173,VES
+Venezuela,Venezuelan Bolivar,José Félix Ribas,M,Military,5,2018,1815,203,VES
