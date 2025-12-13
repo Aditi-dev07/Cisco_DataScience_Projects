@@ -1,0 +1,258 @@
+territory,alpha3,first_day,units,paper
+Afghanistan,AFG,sat,metric,A4
+Aland Islands,ALA,mon,metric,A4
+Albania,ALB,mon,metric,A4
+Algeria,DZA,sat,metric,A4
+American Samoa,ASM,sun,metric,A4
+Andorra,AND,mon,metric,A4
+Angola,AGO,mon,metric,A4
+Anguilla,AIA,mon,metric,A4
+Antarctica,ATA,mon,metric,A4
+Antigua & Barbuda,ATG,sun,metric,A4
+Argentina,ARG,mon,metric,A4
+Armenia,ARM,mon,metric,A4
+Aruba,ABW,mon,metric,A4
+Ascension Island,ASC,mon,metric,A4
+Australia,AUS,mon,metric,A4
+Austria,AUT,mon,metric,A4
+Azerbaijan,AZE,mon,metric,A4
+Bahamas,BHS,sun,US,A4
+Bahrain,BHR,sat,metric,A4
+Bangladesh,BGD,sun,metric,A4
+Barbados,BRB,mon,metric,A4
+Belarus,BLR,mon,metric,A4
+Belgium,BEL,mon,metric,A4
+Belize,BLZ,sun,US,US-Letter
+Benin,BEN,mon,metric,A4
+Bermuda,BMU,mon,metric,A4
+Bhutan,BTN,sun,metric,A4
+Bolivia,BOL,mon,metric,A4
+Bosnia & Herzegovina,BIH,mon,metric,A4
+Botswana,BWA,sun,metric,A4
+Bouvet Island,BVT,mon,metric,A4
+Brazil,BRA,sun,metric,A4
+British Indian Ocean Territory,IOT,mon,metric,A4
+British Virgin Islands,VGB,mon,metric,A4
+Brunei,BRN,mon,metric,A4
+Bulgaria,BGR,mon,metric,A4
+Burkina Faso,BFA,mon,metric,A4
+Burundi,BDI,mon,metric,A4
+Cambodia,KHM,sun,metric,A4
+Cameroon,CMR,mon,metric,A4
+Canada,CAN,sun,metric,US-Letter
+Canary Islands,,mon,metric,A4
+Cape Verde,CPV,mon,metric,A4
+Caribbean Netherlands,BES,mon,metric,A4
+Cayman Islands,CYM,mon,US,A4
+Central African Republic,CAF,mon,metric,A4
+Ceuta & Melilla,,mon,metric,A4
+Chad,TCD,mon,metric,A4
+Chile,CHL,mon,metric,US-Letter
+China,CHN,mon,metric,A4
+Christmas Island,CXR,mon,metric,A4
+Clipperton Island,CPT,mon,metric,A4
+Cocos (Keeling) Islands,CCK,mon,metric,A4
+Colombia,COL,sun,metric,US-Letter
+Comoros,COM,mon,metric,A4
+Congo - Brazzaville,COG,mon,metric,A4
+Congo - Kinshasa,COD,mon,metric,A4
+Cook Islands,COK,mon,metric,A4
+Costa Rica,CRI,mon,metric,US-Letter
+Cote d’Ivoire,CIV,mon,metric,A4
+Croatia,HRV,mon,metric,A4
+Cuba,CUB,mon,metric,A4
+Curacao,CUW,mon,metric,A4
+Cyprus,CYP,mon,metric,A4
+Czechia,CZE,mon,metric,A4
+Denmark,DNK,mon,metric,A4
+Diego Garcia,DGA,mon,metric,A4
+Djibouti,DJI,sat,metric,A4
+Dominica,DMA,sun,metric,A4
+Dominican Republic,DOM,sun,metric,A4
+Ecuador,ECU,mon,metric,A4
+Egypt,EGY,sat,metric,A4
+El Salvador,SLV,sun,metric,US-Letter
+Equatorial Guinea,GNQ,mon,metric,A4
+Eritrea,ERI,mon,metric,A4
+Estonia,EST,mon,metric,A4
+Eswatini,SWZ,mon,metric,A4
+Ethiopia,ETH,sun,metric,A4
+Falkland Islands,FLK,mon,metric,A4
+Faroe Islands,FRO,mon,metric,A4
+Fiji,FJI,mon,metric,A4
+Finland,FIN,mon,metric,A4
+France,FRA,mon,metric,A4
+French Guiana,GUF,mon,metric,A4
+French Polynesia,PYF,mon,metric,A4
+French Southern Territories,ATF,mon,metric,A4
+Gabon,GAB,mon,metric,A4
+Gambia,GMB,mon,metric,A4
+Georgia,GEO,mon,metric,A4
+Germany,DEU,mon,metric,A4
+Ghana,GHA,mon,metric,A4
+Gibraltar,GIB,mon,metric,A4
+Greece,GRC,mon,metric,A4
+Greenland,GRL,mon,metric,A4
+Grenada,GRD,mon,metric,A4
+Guadeloupe,GLP,mon,metric,A4
+Guam,GUM,sun,metric,A4
+Guatemala,GTM,sun,metric,US-Letter
+Guernsey,GGY,mon,metric,A4
+Guinea,GIN,mon,metric,A4
+Guinea-Bissau,GNB,mon,metric,A4
+Guyana,GUY,mon,metric,A4
+Haiti,HTI,mon,metric,A4
+Heard & McDonald Islands,HMD,mon,metric,A4
+Honduras,HND,sun,metric,A4
+Hong Kong SAR China,HKG,sun,metric,A4
+Hungary,HUN,mon,metric,A4
+Iceland,ISL,mon,metric,A4
+India,IND,sun,metric,A4
+Indonesia,IDN,sun,metric,A4
+Iran,IRN,sat,metric,A4
+Iraq,IRQ,sat,metric,A4
+Ireland,IRL,mon,metric,A4
+Isle of Man,IMN,mon,metric,A4
+Israel,ISR,sun,metric,A4
+Italy,ITA,mon,metric,A4
+Jamaica,JAM,sun,metric,A4
+Japan,JPN,sun,metric,A4
+Jersey,JEY,mon,metric,A4
+Jordan,JOR,sat,metric,A4
+Kazakhstan,KAZ,mon,metric,A4
+Kenya,KEN,sun,metric,A4
+Kiribati,KIR,mon,metric,A4
+Kosovo,,mon,metric,A4
+Kuwait,KWT,sat,metric,A4
+Kyrgyzstan,KGZ,mon,metric,A4
+Laos,LAO,sun,metric,A4
+Latvia,LVA,mon,metric,A4
+Lebanon,LBN,mon,metric,A4
+Lesotho,LSO,mon,metric,A4
+Liberia,LBR,mon,"US, metric",A4
+Libya,LBY,sat,metric,A4
+Liechtenstein,LIE,mon,metric,A4
+Lithuania,LTU,mon,metric,A4
+Luxembourg,LUX,mon,metric,A4
+Macao SAR China,MAC,sun,metric,A4
+Madagascar,MDG,mon,metric,A4
+Malawi,MWI,mon,metric,A4
+Malaysia,MYS,mon,metric,A4
+Maldives,MDV,fri,metric,A4
+Mali,MLI,mon,metric,A4
+Malta,MLT,sun,metric,A4
+Marshall Islands,MHL,sun,metric,A4
+Martinique,MTQ,mon,metric,A4
+Mauritania,MRT,mon,metric,A4
+Mauritius,MUS,mon,metric,A4
+Mayotte,MYT,mon,metric,A4
+Mexico,MEX,sun,metric,US-Letter
+Micronesia,FSM,mon,metric,A4
+Moldova,MDA,mon,metric,A4
+Monaco,MCO,mon,metric,A4
+Mongolia,MNG,mon,metric,A4
+Montenegro,MNE,mon,metric,A4
+Montserrat,MSR,mon,metric,A4
+Morocco,MAR,mon,metric,A4
+Mozambique,MOZ,sun,metric,A4
+Myanmar (Burma),MMR,sun,"UK, metric",A4
+Namibia,NAM,mon,metric,A4
+Nauru,NRU,mon,metric,A4
+Nepal,NPL,sun,metric,A4
+Netherlands,NLD,mon,metric,A4
+New Caledonia,NCL,mon,metric,A4
+New Zealand,NZL,mon,metric,A4
+Nicaragua,NIC,sun,metric,US-Letter
+Niger,NER,mon,metric,A4
+Nigeria,NGA,mon,metric,A4
+Niue,NIU,mon,metric,A4
+Norfolk Island,NFK,mon,metric,A4
+North Korea,PRK,mon,metric,A4
+North Macedonia,MKD,mon,metric,A4
+Northern Mariana Islands,MNP,mon,metric,A4
+Norway,NOR,mon,metric,A4
+Oman,OMN,sat,metric,A4
+Pakistan,PAK,sun,metric,A4
+Palau,PLW,mon,US,A4
+Palestinian Territories,PSE,mon,metric,A4
+Panama,PAN,sun,metric,US-Letter
+Papua New Guinea,PNG,mon,metric,A4
+Paraguay,PRY,sun,metric,A4
+Peru,PER,sun,metric,A4
+Philippines,PHL,sun,metric,US-Letter
+Pitcairn Islands,PCN,mon,metric,A4
+Poland,POL,mon,metric,A4
+Portugal,PRT,sun,metric,A4
+Puerto Rico,PRI,sun,US,US-Letter
+Qatar,QAT,sat,metric,A4
+Reunion,REU,mon,metric,A4
+Romania,ROU,mon,metric,A4
+Russia,RUS,mon,metric,A4
+Rwanda,RWA,mon,metric,A4
+Samoa,WSM,sun,metric,A4
+San Marino,SMR,mon,metric,A4
+Sao Tome & Principe,STP,mon,metric,A4
+Sark,CRQ,mon,metric,A4
+Saudi Arabia,SAU,sun,metric,A4
+Senegal,SEN,mon,metric,A4
+Serbia,SRB,mon,metric,A4
+Seychelles,SYC,mon,metric,A4
+Sierra Leone,SLE,mon,metric,A4
+Singapore,SGP,sun,metric,A4
+Sint Maarten,SXM,mon,metric,A4
+Slovakia,SVK,mon,metric,A4
+Slovenia,SVN,mon,metric,A4
+Solomon Islands,SLB,mon,metric,A4
+Somalia,SOM,mon,metric,A4
+South Africa,ZAF,sun,metric,A4
+South Georgia & South Sandwich Islands,SGS,mon,metric,A4
+South Korea,KOR,sun,metric,A4
+South Sudan,SSD,mon,metric,A4
+Spain,ESP,mon,metric,A4
+Sri Lanka,LKA,mon,metric,A4
+St. Barthelemy,BLM,mon,metric,A4
+St. Helena,SHN,mon,metric,A4
+St. Kitts & Nevis,KNA,mon,metric,A4
+St. Lucia,LCA,mon,metric,A4
+St. Martin,MAF,mon,metric,A4
+St. Pierre & Miquelon,SPM,mon,metric,A4
+St. Vincent & Grenadines,VCT,mon,metric,A4
+Sudan,SDN,sat,metric,A4
+Suriname,SUR,mon,metric,A4
+Svalbard & Jan Mayen,SJM,mon,metric,A4
+Sweden,SWE,mon,metric,A4
+Switzerland,CHE,mon,metric,A4
+Syria,SYR,sat,metric,A4
+Taiwan,TWN,sun,metric,A4
+Tajikistan,TJK,mon,metric,A4
+Tanzania,TZA,mon,metric,A4
+Thailand,THA,sun,metric,A4
+Timor-Leste,TLS,mon,metric,A4
+Togo,TGO,mon,metric,A4
+Tokelau,TKL,mon,metric,A4
+Tonga,TON,mon,metric,A4
+Trinidad & Tobago,TTO,sun,metric,A4
+Tristan da Cunha,TAA,mon,metric,A4
+Tunisia,TUN,mon,metric,A4
+Turkiye,TUR,mon,metric,A4
+Turkmenistan,TKM,mon,metric,A4
+Turks & Caicos Islands,TCA,mon,metric,A4
+Tuvalu,TUV,mon,metric,A4
+U.S. Outlying Islands,UMI,sun,metric,A4
+U.S. Virgin Islands,VIR,sun,metric,A4
+Uganda,UGA,mon,metric,A4
+Ukraine,UKR,mon,metric,A4
+United Arab Emirates,ARE,sat,metric,A4
+United Kingdom,GBR,mon,UK,A4
+United States,USA,sun,US,US-Letter
+Uruguay,URY,mon,metric,A4
+Uzbekistan,UZB,mon,metric,A4
+Vanuatu,VUT,mon,metric,A4
+Vatican City,VAT,mon,metric,A4
+Venezuela,VEN,sun,metric,US-Letter
+Vietnam,VNM,mon,metric,A4
+Wallis & Futuna,WLF,mon,metric,A4
+Western Sahara,ESH,mon,metric,A4
+Yemen,YEM,sun,metric,A4
+Zambia,ZMB,mon,metric,A4
+Zimbabwe,ZWE,sun,metric,A4
