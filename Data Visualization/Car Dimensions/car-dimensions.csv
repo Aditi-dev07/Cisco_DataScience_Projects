@@ -1,0 +1,107 @@
+brand_model,length,width,height,year,generation
+Audi A4,4520,1733,1415,1994,first
+Audi A4,4762,1847,1427,2015,latest
+BMW 3 Series,4355,1610,1380,1975,first
+BMW 3 Series,4829,1827,1442,2018,latest
+BMW 7 Series,4860,1800,1430,1986,first
+BMW 7 Series,5391,1950,1544,2022,latest
+Chevrolet Corvette,4249,1773,1308,1953,first
+Chevrolet Corvette,4630,1933,1234,2020,latest
+Chevrolet Silverado,5164,1994,1880,1999,first
+Chevrolet Silverado,5352,2062,1930,2019,latest
+Chevrolet Suburban,5565,2022,1829,1973,first
+Chevrolet Suburban,5733,2060,1923,2021,latest
+Chrysler Voyager,4468,1829,1631,1991,first
+Chrysler Voyager,5171,2022,1775,2020,latest
+Fiat  Panda,3380,1460,1445,1980,first
+Fiat  Panda,3990,1760,1570,2024,latest
+Fiat 500,2970,1320,1320,1957,first
+Fiat 500,3632,1683,1527,2020,latest
+Ford Explorer,4681,1783,1709,1991,first
+Ford Explorer,5050,2004,1775,2020,latest
+Ford F-Series,4800,1920,1920,1956,first
+Ford F-Series,5784,2029,1956,2021,latest
+Ford Fiesta,3565,1567,1360,1976,first
+Ford Fiesta,4069,1735,1484,2017,latest
+Ford Mustang,4613,1732,1300,1965,first
+Ford Mustang,4811,1915,1397,2024,latest
+Honda Accord,4450,1620,1360,1976,first
+Honda Accord,4970,1860,1450,2023,latest
+Honda CR-V,4510,1780,1770,1995,first
+Honda CR-V,4703,1866,1690,2022,latest
+Honda Civic,3405,1505,1330,1972,first
+Honda Civic,4674,1801,1415,2021,latest
+Hyundai Accent,4117,1620,1395,1994,first
+Hyundai Accent,4535,1765,1475,2023,latest
+Hyundai Elantra,4375,1675,1395,1990,first
+Hyundai Elantra,4680,1825,1430,2020,latest
+Hyundai Grandeur,4865,1725,1430,1986,first
+Hyundai Grandeur,5034,1880,1460,2022,latest
+Hyundai Sonata,4578,1755,1380,1985,first
+Hyundai Sonata,4900,1860,1445,2019,latest
+Jeep Wrangler,3880,1700,1826,1986,first
+Jeep Wrangler,4785,1875,1849,2017,latest
+Kia  Sportage,4245,1855,1635,1993,first
+Kia  Sportage,4660,1865,1660,2021,latest
+Lada Niva,3740,1680,1640,1977,first
+Lada Niva,3740,1680,1640,2024,latest
+Land Rover Range Rover,4648,1781,1801,1970,first
+Land Rover Range Rover,5252,2048,1870,2022,latest
+Maruti Suzuki Alto,3620,1475,1460,2000,first
+Maruti Suzuki Alto,3530,1490,1520,2022,latest
+Maruti Suzuki Wagon R,3595,1490,1660,1999,first
+Maruti Suzuki Wagon R,3655,1620,1675,2019,latest
+Mazda MX-5,3950,1675,1230,1989,first
+Mazda MX-5,3915,1730,1235,2015,latest
+Mercedes C-Class,4505,1720,1425,1993,first
+Mercedes C-Class,4751,1820,1438,2021,latest
+Mercedes E-Class,4755,1740,1430,1983,first
+Mercedes E-Class,4949,1880,1480,2023,latest
+Mini Cooper,3060,1420,1360,1969,first
+Mini Cooper,3858,1756,1460,2023,latest
+Mitsubishi Triton,4960,1650,1645,1978,first
+Mitsubishi Triton,5360,1930,1815,2023,latest
+Nissan Patrol,3650,1740,1720,1951,first
+Nissan Patrol,5350,2030,1955,2024,latest
+Nissan Z-car,4115,1630,1305,1970,first
+Nissan Z-car,4380,1845,1315,2023,latest
+Opel Corsa,3955,1540,1365,1982,first
+Opel Corsa,4060,1765,1435,2019,latest
+Porshe 911,4290,1780,1310,1964,first
+Porshe 911,4499,1852,1297,2022,latest
+Proton Saga,4311,1635,1360,1985,first
+Proton Saga,4335,1690,1515,2016,latest
+Renault Clio,3709,1616,1360,1990,first
+Renault Clio,4050,1798,1440,2019,latest
+Renault Kangoo,4035,1670,1800,1997,first
+Renault Kangoo,4486,1919,1838,2020,latest
+SEAT Ibiza,3683,1610,1395,1984,first
+SEAT Ibiza,4059,1780,1444,2017,latest
+SEAT Leon,4183,1742,1439,1999,first
+SEAT Leon,4368,1800,1456,2020,latest
+Skoda Octavia,4511,1731,1429,1996,first
+Skoda Octavia,4689,1829,1470,2019,latest
+Suzuki Jimny,3170,1295,1660,1970,first
+Suzuki Jimny,3645,1645,1730,2018,latest
+Suzuki Vitara,3720,1695,1725,1988,first
+Suzuki Vitara,4175,1775,1610,2015,latest
+Toyota 4Runner,4435,1690,1680,1983,first
+Toyota 4Runner,4950,1976,1798,2024,latest
+Toyota Camry,4445,1645,1390,1979,first
+Toyota Camry,4920,1840,1455,2023,latest
+Toyota Corolla,3845,1485,1380,1966,first
+Toyota Corolla,4630,1780,1455,2018,latest
+Toyota HiLix,4690,1610,1565,1968,first
+Toyota HiLix,5325,2020,1880,2015,latest
+Toyota Land Cruiser,4675,1735,1865,1967,first
+Toyota Land Cruiser,5015,1990,1945,2021,latest
+Toyota Prius,4308,1695,1463,1997,first
+Toyota Prius,4600,1780,1430,2022,latest
+Toyota Rav4,4160,1695,1650,1994,first
+Toyota Rav4,4600,1855,1660,2018,latest
+Toyota Sienna,4840,1860,1710,1997,first
+Toyota Sienna,5180,1990,1780,2020,latest
+Volkswagen Golf,3705,1610,1395,1974,first
+Volkswagen Golf,4633,1789,1498,2020,latest
+Volkswagen Type 2,4280,1720,1940,1950,first
+Volkswagen Type 2,5304,1904,2477,2015,latest
