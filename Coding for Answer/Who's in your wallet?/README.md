@@ -1,6 +1,6 @@
-# 💵 People on Banknotes – Historical & Demographic Data Analysis
+# People on Banknotes – Historical & Demographic Data Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project explores representation and history through everyday objects we often overlook:
 
 > **Who appears on banknotes around the world, and what does that say about representation, power, and history?**
@@ -9,7 +9,7 @@ Using a global dataset of banknotes, this analysis examines **gender representat
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Identify **who appears on banknotes** across different countries
 - Analyze **gender representation** on currency
 - Examine common professions and historical roles
@@ -17,7 +17,7 @@ Using a global dataset of banknotes, this analysis examines **gender representat
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 - Exploratory Data Analysis (EDA)
 - Data cleaning and filtering
 - Grouping and aggregation with pandas
@@ -26,7 +26,7 @@ Using a global dataset of banknotes, this analysis examines **gender representat
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python** 🐍
 - **Pandas** 🐼
 - **Jupyter Notebook / Google Colab** 📓
@@ -34,7 +34,7 @@ Using a global dataset of banknotes, this analysis examines **gender representat
 
 ---
 
-## 📂 Dataset Overview
+## Dataset Overview
 The dataset includes:
 - Country and currency information
 - Names of individuals on banknotes
@@ -45,7 +45,7 @@ This structure allows for meaningful analysis of **representation and diversity*
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Men are overwhelmingly more represented than women on banknotes
 - Political leaders and historical figures dominate currency imagery
 - Representation varies significantly by region and country
@@ -53,25 +53,17 @@ This structure allows for meaningful analysis of **representation and diversity*
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 1. Open the notebook in **Jupyter Notebook** or **Google Colab**
 2. Ensure the dataset file is available in the same directory
 3. Run all cells sequentially to reproduce the analysis
 
 ---
 
-## 📈 Why This Project Matters
+##  Why This Project Matters
 This project demonstrates my ability to:
 - Analyze data through a **social and historical lens**
 - Identify representation gaps using quantitative methods
 - Communicate insights that connect data with real-world impact
 
 These skills are valuable for **data analyst, research, and policy-related roles**.
-
----
-
-## 🙋 About Me
-I am an aspiring **Data Analyst / Data Scientist** interested in uncovering insights at the intersection of data, society, and history. I enjoy projects that use data to ask deeper questions about representation and decision-making.
-
-📫 *Feel free to explore the notebook or connect with me via GitHub or LinkedIn.*
-
