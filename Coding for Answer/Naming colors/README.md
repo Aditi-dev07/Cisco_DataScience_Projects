@@ -1,15 +1,13 @@
-# 🎨 Naming Colors – Linguistic & Cultural Data Analysis
-
-## 📌 Project Overview
+#  Naming Colors – Linguistic & Cultural Data Analysis  
+##  Project Overview
 This project explores the intersection of **language, culture, and perception** through data analysis:
-
 > **How do different languages and cultures name and categorize colors?**
 
 Using structured linguistic data, the analysis examines how many basic color terms exist across languages and how color naming varies globally. The project demonstrates how abstract cultural questions can be explored using quantitative methods.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze the number of basic color terms across languages
 - Compare linguistic patterns in color naming
 - Identify trends and variations across cultures
@@ -17,7 +15,7 @@ Using structured linguistic data, the analysis examines how many basic color ter
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 - Exploratory Data Analysis (EDA)
 - Working with categorical and linguistic datasets
 - Data cleaning and standardization
@@ -26,7 +24,7 @@ Using structured linguistic data, the analysis examines how many basic color ter
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python**
 - **Pandas**
 - **Jupyter Notebook / Google Colab**
@@ -34,7 +32,7 @@ Using structured linguistic data, the analysis examines how many basic color ter
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The dataset includes:
 - Language names
 - Number of basic color terms
@@ -44,31 +42,22 @@ This structure enables cross-language comparison and pattern identification.
 
 ---
 
-## 🔍 Analysis Highlights
+##  Analysis Highlights
 - Languages vary significantly in the number of basic color terms they use
 - Some languages group multiple color concepts under a single term
 - The findings support the idea that **color perception is influenced by language and culture**
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 1. Open the notebook in **Jupyter Notebook** or **Google Colab**
 2. Ensure the dataset is available in the same directory
 3. Run all cells sequentially to reproduce the analysis
 
 ---
 
-## 📈 Why This Project Matters
+##  Why This Project Matters
 This project highlights my ability to:
 - Analyze non-traditional datasets (linguistic & cultural data)
 - Translate abstract concepts into structured analysis
 - Draw meaningful insights from categorical data
-
-These skills are valuable for roles involving research, analytics, and human-centered data problems.
-
----
-
-## 🙋 About Me
-I am an aspiring **Data Analyst / Data Scientist** with a strong interest in using data to explore human behavior, culture, and perception. I enjoy projects that combine analytical rigor with interdisciplinary thinking.
-
-📫 *Feel free to explore the notebook or connect with me on GitHub or LinkedIn.*
