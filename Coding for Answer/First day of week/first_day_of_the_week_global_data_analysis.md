@@ -1,4 +1,4 @@
-# 🌍 First Day of the Week – Global Data Analysis
+# 🌍 First Day of the Week 
 
 ## 📌 Project Overview
 This project explores a deceptively simple but culturally significant question:
@@ -77,6 +77,3 @@ It reflects how I approach data problems in professional environments — with c
 
 ## 🙋 About Me
 I am an aspiring **Data Analyst / Data Scientist** with a strong interest in uncovering insights from data and turning them into meaningful narratives. I enjoy working on projects that combine technical depth with real-world relevance.
-
-📫 *Feel free to connect with me via GitHub or LinkedIn!*
-
