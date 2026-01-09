@@ -1,6 +1,6 @@
-# 🌍 First Day of the Week – Global Data Analysis
+#  First Day of the Week – Global Data Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project explores a deceptively simple but culturally significant question:
 
 > **What is considered the first day of the week around the world — Sunday or Monday?**
@@ -11,7 +11,7 @@ This notebook was created as part of a data analysis exercise and is designed to
 
 ---
 
-## 🎯 Key Questions Answered
+##  Key Questions Answered
 - How many territories start the week on **Friday, Saturday, Sunday, or Monday**?
 - How many **people worldwide** start their week on each of these days?
 - Which global regions (Asia, Europe, Africa, Americas) predominantly start the week on **Sunday vs Monday**?
@@ -19,7 +19,7 @@ This notebook was created as part of a data analysis exercise and is designed to
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 - Data cleaning and preprocessing
 - Merging multiple datasets (`merge` operations in pandas)
 - Grouping, aggregation, and percentage calculations
@@ -29,7 +29,7 @@ This notebook was created as part of a data analysis exercise and is designed to
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python**
 - **Pandas** – data manipulation and analysis
 - **Google Colab / Jupyter Notebook**
@@ -37,7 +37,7 @@ This notebook was created as part of a data analysis exercise and is designed to
 
 ---
 
-## 📂 Datasets Used
+## Datasets Used
 - `first-day-of-week.csv` – Defines the first day of the week by territory
 - `population.csv` – Population data per territory
 - `four-regions.csv` – Maps territories to one of four global regions (Asia, Europe, Africa, Americas)
@@ -46,7 +46,7 @@ These datasets were combined to analyze both **territorial distribution** and **
 
 ---
 
-## 🔍 Analysis Highlights
+##  Analysis Highlights
 - Most territories globally start the week on either **Sunday or Monday**, with very few starting on Friday or Saturday.
 - When population is considered, the global distribution shifts — demonstrating why **population-weighted analysis** is critical.
 - **Europe** overwhelmingly favors Monday as the first day of the week.
@@ -54,7 +54,7 @@ These datasets were combined to analyze both **territorial distribution** and **
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 1. Open the notebook in **Google Colab** or **Jupyter Notebook**
 2. Upload the following files when prompted:
    - `first-day-of-week.csv`
@@ -64,7 +64,7 @@ These datasets were combined to analyze both **territorial distribution** and **
 
 ---
 
-## 📈 Why This Project Matters
+##  Why This Project Matters
 This project demonstrates my ability to:
 - Ask the **right analytical questions**
 - Combine multiple datasets to uncover deeper insights
@@ -77,6 +77,3 @@ It reflects how I approach data problems in professional environments — with c
 
 ## 🙋 About Me
 I am an aspiring **Data Analyst / Data Scientist** with a strong interest in uncovering insights from data and turning them into meaningful narratives. I enjoy working on projects that combine technical depth with real-world relevance.
-
-📫 *Feel free to connect with me via GitHub or LinkedIn!*
-
