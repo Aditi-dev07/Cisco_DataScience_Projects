@@ -1,6 +1,6 @@
 # 🦴 Skeletal Variation – Biological & Anthropological Data Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project explores **biological diversity and human variation** through skeletal measurement data:
 
 > **How do skeletal measurements vary across populations, and what patterns can be observed using data analysis?**
@@ -9,7 +9,7 @@ Using structured anthropological data, this analysis examines variation in skele
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze skeletal measurement data across samples
 - Identify patterns and variation in biological traits
 - Apply descriptive statistics to anthropological data
@@ -17,7 +17,7 @@ Using structured anthropological data, this analysis examines variation in skele
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - Exploratory Data Analysis (EDA)
 - Statistical summary and comparison
 - Data cleaning and preprocessing
@@ -26,7 +26,7 @@ Using structured anthropological data, this analysis examines variation in skele
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python** 🐍
 - **Pandas** 🐼
 - **Jupyter Notebook / Google Colab** 📓
@@ -35,7 +35,7 @@ Using structured anthropological data, this analysis examines variation in skele
 
 ---
 
-## 📂 Dataset Overview
+##  Dataset Overview
 The dataset includes:
 - Skeletal measurement variables
 - Sample identifiers
@@ -45,32 +45,24 @@ This structure enables quantitative comparison and pattern discovery in biologic
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Skeletal measurements show meaningful variation across samples
 - Statistical summaries reveal distributional differences
 - Demonstrates how data analysis supports biological and anthropological research
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 1. Open the notebook in **Jupyter Notebook** or **Google Colab**
 2. Ensure the dataset is available in the same directory
 3. Run all cells sequentially to reproduce the analysis
 
 ---
 
-## 📈 Why This Project Matters
+##  Why This Project Matters
 This project demonstrates my ability to:
 - Work with **scientific and biological datasets**
 - Apply analytical techniques beyond business data
 - Interpret quantitative results in a research-oriented context
 
 These skills are valuable for roles in **data analysis, research, healthcare analytics, and applied science**.
-
----
-
-## 🙋 About Me
-I am an aspiring **Data Analyst / Data Scientist** with an interest in applying data analysis to scientific and research-driven domains. I enjoy using data to uncover patterns that explain real-world variation.
-
-📫 *Feel free to explore the notebook or connect with me on GitHub or LinkedIn.*
-
