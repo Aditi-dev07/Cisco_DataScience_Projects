@@ -1,7 +1,4 @@
 # 💫 About Me:
-![Image](https://github.com/user-attachments/assets/4720a394-a62a-4382-8a2d-cd56af87b1eb)
-
-
 I’m currently working on Building end-to-end data analysis projects using Python, Pandas, NumPy, SQL, and Practicing EDA, data cleaning, and visualization on real-world datasets. Creating machine learning models for prediction and classification problems<br><br>
 👯 I’m looking to collaborate on Beginner-friendly data science and analytics projects Open-source projects related to data analysis, dashboards, or ML models. Case studies involving business insights from data<br><br>
 🤝 I’m looking for help with, Improving real-world project experience, learning best practices for model deployment and storytelling, interview preparation for Data Analyst / Data Scientist roles<br><br>
