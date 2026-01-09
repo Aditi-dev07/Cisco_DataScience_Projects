@@ -1,6 +1,6 @@
-# 📊 Data Analysis Portfolio
+# 📊 Coding for Answer Portfolio
 
-Welcome to my **Data Analysis Portfolio** 👋  
+Welcome 
 This repository showcases a collection of hands-on projects where I explore real-world questions using **Python, data analysis, visualization, and critical thinking**.
 
 Each project demonstrates my ability to:
@@ -11,7 +11,7 @@ Each project demonstrates my ability to:
 
 ---
 
-## 🧠 Skills & Tools
+##  Skills & Tools
 - **Python** (pandas, NumPy)
 - **Data Analysis & EDA**
 - **Data Cleaning & Merging**
@@ -21,7 +21,7 @@ Each project demonstrates my ability to:
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### 🌍 First Day of the Week
 **Question:** What is considered the first day of the week around the world?
@@ -104,7 +104,9 @@ Each project demonstrates my ability to:
 ---
 
 ## 🚀 About Me
-I am an aspiring **Data Analyst / Data Scientist** passionate about using data to explore **culture, society, science, and global trends**. I enjoy transforming raw datasets into clear, meaningful insights that answer real-world questions.
+Hi! I’m a Data Science enthusiast with an MCA degree, passionate about turning data into actionable insights. I enjoy exploring datasets, building predictive models, and leveraging machine learning to solve real-world problems.
+
+I’m skilled in Python, SQL, and data visualization tools, and I love contributing to open-source projects and continuously learning new technologies in the field of data science.
 
 📫 Feel free to explore the projects or connect with me on **GitHub or LinkedIn**.
 
