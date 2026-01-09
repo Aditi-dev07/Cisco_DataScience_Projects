@@ -1,6 +1,6 @@
-# 🏝️ Largest Islands – Geographical Data Analysis
+# Largest Islands – Geographical Data Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project explores a classic geography question through a data-driven lens:
 
 > **What are the largest islands in the world, and how do they compare by land area?**
@@ -9,7 +9,7 @@ Using structured geographical data, the analysis ranks the world’s largest isl
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Identify and rank the **largest islands by land area**
 - Clean and standardize geographical data
 - Explore how classification rules impact rankings
@@ -17,7 +17,7 @@ Using structured geographical data, the analysis ranks the world’s largest isl
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - Data cleaning and preparation
 - Sorting and ranking datasets
 - Working with categorical and numerical data
@@ -26,7 +26,7 @@ Using structured geographical data, the analysis ranks the world’s largest isl
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python**
 - **Pandas**
 - **Jupyter Notebook / Google Colab**
@@ -34,7 +34,7 @@ Using structured geographical data, the analysis ranks the world’s largest isl
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The dataset includes:
 - Island names
 - Land area measurements
@@ -44,32 +44,24 @@ The data enables comparison while highlighting how **definition choices** can in
 
 ---
 
-## 🔍 Analysis Highlights
+##  Analysis Highlights
 - **Greenland** ranks as the largest island by land area
 - Classification decisions (e.g., excluding continents like Australia) significantly affect rankings
 - The project highlights the importance of **data definitions and assumptions** in analysis
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 1. Open the notebook in **Jupyter Notebook** or **Google Colab**
 2. Ensure the dataset is accessible in the working directory
 3. Run all cells sequentially to reproduce the results
 
 ---
 
-## 📈 Why This Project Matters
+##  Why This Project Matters
 This project showcases my ability to:
 - Work with reference and ranking data
 - Apply logical constraints to datasets
 - Communicate results clearly and accurately
 
 These are core skills for data analyst roles that involve reporting, validation, and insight generation.
-
----
-
-## 🙋 About Me
-I am an aspiring **Data Analyst / Data Scientist** with a strong interest in transforming structured data into clear insights. I enjoy projects that emphasize analytical clarity, correctness, and real-world context.
-
-📫 *Feel free to explore the notebook or connect with me on GitHub or LinkedIn.*
-
