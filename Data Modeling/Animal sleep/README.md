@@ -72,3 +72,6 @@ The notebook demonstrates scatter plots, regression lines, and comparisons acros
 ## Troubleshooting
 - Ensure CSV and Python files are in the same directory
 - Reinstall dependencies if imports fail
+
+## 🙋 About Me
+I am an aspiring **Data Analyst / Data Scientist** with a strong interest in uncovering insights from data and turning them into meaningful narratives. I enjoy working on projects that combine technical depth with real-world relevance.
