@@ -18,7 +18,6 @@ The analysis investigates questions such as:
 - Examples
 - Project Ideas
 - Troubleshooting
-- License
 
 ## Project Structure
 ```
@@ -73,6 +72,3 @@ The notebook demonstrates scatter plots, regression lines, and comparisons acros
 ## Troubleshooting
 - Ensure CSV and Python files are in the same directory
 - Reinstall dependencies if imports fail
-
-## License
-Educational use only. Add a license for public distribution.
