@@ -46,7 +46,7 @@ pip install pandas matplotlib
 ## Usage
 Run the Jupyter notebook:
 ```bash
-jupyter notebook animal-sleep.ipynb
+animal-sleep.ipynb
 ```
 
 ## Features
