@@ -1,69 +1,62 @@
-# 📊 Data Science Portfolio: Market Strategy, Historical Trends & Sentiment Analysis
----
+# 📊 Emoji Sentiment Analysis: Decoding Digital Emotions
 
-## 📌 Project Overview
-This repository contains a curated collection of data analysis projects focused on transforming raw datasets into actionable business intelligence and cultural insights. By leveraging the Python data science stack, these projects address real-world challenges ranging from retail inventory optimization to social media linguistics and historical media trends.
-
-1.  **A Plant-Based Coffee Shop:** Market research to define the launch strategy for a specialty cafe.
-2.  **A Century of Top Songs:** A longitudinal study exploring the evolution of music from 1923 to 2023.
-3.  **Emoji Sentiment Analysis:** An investigation into the emotional mapping and positioning of emojis in 1.6 million tweets.
+This repository features a comprehensive data analysis of how emojis convey sentiment across 1.6 million tweets in 13 European languages. This project demonstrates end-to-end data science skills, including data cleaning, feature engineering, and behavioral analysis.
 
 ---
 
-## 🎯 Objectives
-* **Business Intelligence:** Translate consumer survey data into specific inventory and demographic targeting recommendations.
-* **Data Reliability:** Implement rigorous data cleaning pipelines to ensure statistical accuracy in high-dimensional datasets.
-* **Trend Forecasting:** Identify historical "pivot points" in media production and consumer preferences.
-* **Linguistic Mapping:** Quantify the relationship between digital symbols (emojis) and human sentiment.
+## 🎯 Project Overview
+
+The goal of this project is to determine if popular emojis are truly associated with the sentiments we perceive them to have. By analyzing a dataset where 4% of 1.6 million tweets contained emojis, we quantify the "emotional weight" of digital symbols.
+
+### ✨ Recruiter Highlights
+
+* **Data Engineering:** Cleaned high-cardinality metadata and standardized raw datasets for analysis.
+* **Feature Engineering:** Developed a custom `sentiment_score` to normalize emotional impact across different usage frequencies.
+* **Statistical Analysis:** Evaluated the correlation between emoji placement (position in text) and its sentiment polarity.
 
 ---
 
-## 📊 The Datasets
-* **`coffee-survey-results.csv`**: Responses from ~1,000 coffee enthusiasts covering brewing habits and ingredient preferences.
-* **`top-song-durations.csv`**: A 100-year record of every #1 hit song, including artist metadata and duration.
-* **`emoji-sentiment.csv`**: Sentiment scores (Positive/Negative/Neutral) and positioning data derived from 1.6M multi-lingual tweets.
+## 🛠️ Tech Stack
 
----
-
-## 🛠️ Technical Workflow
-*A systematic approach designed for reproducibility and analytical depth.*
-
-### 1. Data Cleaning & Standardization
-* **Feature Extraction:** Sliced datasets with 110+ columns to isolate key variables for specific business questions.
-* **Integrity Management:** Handled missing values (`NaN`) and performed type-casting on time-series data (converting `HH:MM:SS` strings to numeric `total_seconds`).
-* **Data Normalization:** Standardized categorical responses to ensure consistency across large-scale survey data.
-
-### 2. Feature Engineering
-* **Categorical Encoding:** Mapped qualitative survey ranges to quantitative scales (e.g., converting "cups per day" strings to floats for averaging).
-* **Temporal Segmentation:** Binning a century of data into "Eras" (Pre-1968 vs. Modern) to reveal hidden industry shifts.
-* **Sentiment Metrics:** Calculating normalized sentiment scores based on emoji occurrence and tweet polarity.
-
-### 3. Exploratory Data Analysis (EDA)
-* **Demographic Profiling:** Used `.groupby()` and `.agg()` to identify the highest-spending and highest-consuming user segments.
-* **Visual Synthesis:** Crafted sorted horizontal bar charts and trend lines to provide immediate clarity to stakeholders.
+* **Language:** Python 🐍
+* **Library:** Pandas (Data Wrangling) 🐼
+* **Environment:** Jupyter Notebook / Google Colab 📓
 
 ---
 
 ## 📈 Key Insights & Results
 
-### **I. Market Strategy (Plant-Based Coffee Shop)**
-| Strategic Metric | Leading Insight | Business Recommendation |
-| :--- | :--- | :--- |
-| **Top Sweetener** | **Granulated Sugar (63.9%)** | Primary inventory priority; stock in high volume. |
-| **Growth Segment** | **Age 55–64 (2.1 cups/day)** | Target this cohort for premium loyalty programs. |
-| **Specialty Trend** | **Oat & Almond Milk** | Essential plant-based drivers for modern specialty shops. |
+The analysis reveals fascinating patterns in how we use emojis to express feelings. Below is a summary of the findings:
 
-### **II. Historical & Linguistic Trends**
-* **The 1968 Musical Pivot:** Identified a significant shift in song production; average durations rose from **172.64s** (Pre-1968) to **230.48s** (Post-1968).
-* **Emoji Sentiment Positioning:** Data reveals that **negative emojis** are statistically placed closer to the **end of tweets** (avg position 0.681) compared to positive ones (0.662), suggesting a "concluding" emotional weight in digital communication.
+| Metric | Result | Insight 💡 |
+| --- | --- | --- |
+| **Most Positive Emoji** | ❤️ (Heart) | Emojis with high positive ratios dominate digital praise. |
+| **Avg. Position (Positive)** | 0.662 | Positive emojis appear earlier in the tweet. |
+| **Avg. Position (Negative)** | 0.681 | Negative emojis are pushed further toward the end. |
+| **Total Tweets Analyzed** | 1.6 Million | Provides high statistical significance for the results. |
+
+### ❤️ Heart-Based Sentiment Breakdown
+
+| Emoji Type | Sentiment Tilt | Status |
+| --- | --- | --- |
+| ❤️ Red Heart | Very Positive | ❤️❤️❤️❤️❤️ |
+| 💔 Broken Heart | Negative | 🖤🖤🖤🖤🖤 |
+| 💖 Sparkling Heart | High Positive | ❤️❤️❤️❤️🤍 |
 
 ---
 
-## 🚀 How to Run
-### 1. Environment Setup
-Clone the repository and install the required dependencies:
-```bash
-git clone [https://github.com/Aditi-dev07/Cisco_DataScience_Projects.git](https://github.com/Aditi-dev07/Cisco_DataScience_Projects.git)
-pip install pandas matplotlib
+## 🧠 What You Can Learn (Learner Friendly)
 
+1. **Handling Ratios:** Learn how to convert raw counts (Pos/Neg/Neu) into a single probability score.
+2. **Filtering for Quality:** Understand why we only analyze emojis with `occurrences > 500` to avoid statistical noise.
+3. **Data Cleaning:** See how to transform messy column names (like `Image [twemoji]`) into clean, code-friendly formats.
+---
+## ⚙️ How to Run
+
+1. Clone this repository.
+2. Ensure you have `pandas` installed: `pip install pandas`.
+3. Download `emoji-sentiment.csv` and place it in the project root.
+4. Open `emoji-sentiment.ipynb` in Jupyter or VS Code and run all cells.
+
+---
 *Created as part of the Cisco Data Science Projects collection.*
