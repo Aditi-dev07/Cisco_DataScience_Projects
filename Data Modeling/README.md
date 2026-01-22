@@ -1,48 +1,91 @@
-# 📊 Data Modeling & Statistical Analysis Portfolio
+## 📊 Data Modeling & Statistical Analysis Portfolio
 
-## 📑 Project Gallery
+Welcome! This repository showcases a collection of technical projects focused on transforming complex datasets into mathematical models. Here, I explore biological, physical, and environmental questions using Python and statistical rigors.
 
-This repository contains **7 core projects** demonstrating various modeling techniques across biological, physical, and environmental datasets.
+Each project demonstrates my ability to:
 
-| Project | Focus Area | Key Modeling Technique | Primary Insight |
-|:--- |:--- |:--- |:--- |
-| **01. Animal Sleep** | Zoophysiolog |Logarithmic Transformations |Impact of sodium/lifestyle on agingMass and diet as sleep predictors. |
-| **02. E-Bike Stopping** | Physics | Quadratic vs. Linear Modeling | Kinetic energy & safety distances. |
-| **03. Lion Attacks** | Ecology | Negative Correlation Analysis | How moonlight affects predator success. |
-| **04. Lion Nose Color** | Biology | Predictive Interpolation | Estimating age from physical traits. |
-| **05. Poison Frogs** | Evolutionary Bio | $R^2$ Goodness of Fit Comparison | Visibility vs. toxicity (Aposematism). |
-| **06. Tusked Elephants** | Genetics | Historical Cohort Comparison | Selective pressure of poaching on genes. |
-| **07.  Blood Pressure** | Health Science | Comparative Linear Modeling  | Impact of sodium/lifestyle on agingMass and diet as sleep predictors. |
+* **Apply Mathematical Models:** Linear, Quadratic, and Logarithmic approaches.
+* **Validate Statistical Accuracy:** Using  and residual analysis.
+* **Identify Patterns:** Discovering correlations in ecological and health data.
+* **Communicate Complexity:** Translating raw numbers into scientific insights.
 
 ---
 
-## 🛠️ Technical Skills & Tools
+## 🛠️ Skills & Tools
 
-### **Data Modeling & Statistics**
-* **Regression Analysis:** Proficiency in Linear ($y = mx + b$), Quadratic ($y = ax^2 + bx + c$), and Logarithmic modeling.
-* **Statistical Metrics:** Deep understanding of $R^2$ (Coefficient of Determination), Correlation Coefficients, and Residual Analysis for model validation.
-* **Data Principles:** Experience with Data Normalization, identifying Confounding Variables, and distinguishing between Interpolation and Extrapolation.
-
-### **Programming & Libraries**
-* **Python Ecosystem:** Advanced data manipulation with `Pandas` and numerical computing with `NumPy`.
-* **Machine Learning:** Utilizing `Scikit-Learn` for model fitting and prediction pipelines.
-* **Visualization:** Expert-level plotting with `Matplotlib` and `Seaborn` to create publication-quality charts.
-
-### **Domain Expertise**
-* **Biological Modeling:** Analyzing genetic trait shifts and physiological markers.
-* **Ecological Analysis:** Modeling predator-prey dynamics and survival strategies.
-* **Physics-Based Data:** Transforming physical laws into mathematical models for real-world safety analysis.
+* **Modeling:** Regression Analysis (Linear, Quadratic, Logarithmic),  Validation.
+* **Statistics:** Correlation Coefficients, Interpolation, Extrapolation, Residual Analysis.
+* **Python:** pandas, NumPy, Scikit-Learn.
+* **Data Visualization:** Matplotlib, Seaborn.
+* **Domain Knowledge:** Biological Modeling, Physics-based Data, Ecological Analysis.
 
 ---
 
-## 🏗️ Repository Structure
-Each project is housed in its own directory with the following structure:
-* `[project-name].ipynb`: The complete analysis, code, and visualizations.
-* `[data].csv`: The raw datasets used for the specific project.
-* `README.md`: A detailed breakdown of that specific project's methodology and findings.
+## 🏗️ Projects
+
+### 💤 Animal Sleep
+
+**Question:** Do body mass and diet serve as reliable predictors for sleep patterns?
+
+* Logarithmic Transformations
+* Zoophysiology data analysis
+* **📂 Folder:** `Animal Sleep`
+
+### 🩸 Blood Pressure
+
+**Question:** What is the real impact of sodium and lifestyle on the aging process?
+
+* Comparative Linear Modeling
+* Health Science & Aging metrics
+* **📂 Folder:** `Blood Pressure and age`
+
+
+### 🚲 E-Bike Stopping
+
+**Question:** How do speed and kinetic energy impact safety stopping distances?
+
+* Quadratic vs. Linear Modeling
+* Physics-based data transformation
+* **📂 Folder:** `E-Bike Stopping Distance`
+
+### 🌙 Lion Attacks
+
+**Question:** How does the lunar cycle affect the success rates of nocturnal predators?
+
+* Negative Correlation Analysis
+* Ecological behavior modeling
+* **📂 Folder:** `Lion Attacks`
+
+
+### 🦁 Lion Nose Color
+**Question:** Can we accurately estimate a lion's age based on physical traits?
+
+* Predictive Interpolation
+* Estimating age from pigmentation
+* **📂 Folder:** `Lion Nose Color`
+
+### 🐸 Poison Frogs
+
+**Question:** Does high visibility (color) directly correlate with toxicity levels?
+
+*  Goodness of Fit Comparison
+* Evolutionary Biology & Aposematism
+* **📂 Folder:** `Poison dart frogs`
+
+### 🐘 Tusked Elephants
+
+**Question:** How does selective poaching exert genetic pressure on elephant populations?
+
+* Historical Cohort Comparison
+* Genetic trait shift analysis
+* **📂 Folder:** `Tusked Elephants`
 
 ---
-   ## 👤 Author
-**Portfolio Owner:** Aditi Verma
 
-**Program:** Cisco Data Science Professional Track  
+## 🚀 About Me
+
+Hi! I’m **Aditi Verma**, a Data Science enthusiast currently in the **Cisco Data Science Professional Track**. I am passionate about turning data into actionable insights through rigorous modeling and statistical analysis.
+
+I enjoy exploring the intersection of biology, physics, and data, leveraging tools like Python and SQL to solve real-world problems. I love contributing to open-source projects and am constantly learning new ways to build more accurate predictive models.
+
+📫 Feel free to explore the projects or connect with me 
