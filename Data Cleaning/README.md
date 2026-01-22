@@ -50,28 +50,28 @@ Each project demonstrates my ability to:
 
 * Binary classification for logistics
 * Time-series thresholding
-* **📂 Folder:** `flight-delay-analysis`
+* **📂 Folder:** `Flight Delays Project`
 
 ### 🛰 Solar Eclipse Prediction
 **Question:** How can we normalize multi-century data for accurate forecasting?
 
 * Complex string parsing
 * `datetime64` normalization
-* **📂 Folder:** `solar-eclipse-prediction`
+* **📂 Folder:** `Solar eclipse`
 
 ### ⌨️ Typing Speed Metrics
 **Question:** How do performance benchmarks vary across normalized unit measurements?
 
 * Unit normalization (WPM)
 * Comparative performance benchmarking
-* **📂 Folder:** `typing-speed-metrics`
+* **📂 Folder:** `Typing speeds `
 
 ### 🌋 Volcanic Eruptions
 **Question:** How do we integrate spatial-temporal data from multiple relational sources?
 
 * Multi-source relational merging
 * Spatial-temporal data integration
-* **📂 Folder:** `volcanic-eruptions`
+* **📂 Folder:** `Volcanic eruptions`
 
 
 ### 🐋 Whale Heart Rates
@@ -79,7 +79,7 @@ Each project demonstrates my ability to:
 
 * Physiological phase-modeling
 * Window-based data aggregation
-* **📂 Folder:** `whale-heart-rates`
+* **📂 Folder:** ` Whale heart rates`
 ---
 
 ## 🚀 About Me
