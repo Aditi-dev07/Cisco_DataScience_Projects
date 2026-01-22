@@ -47,3 +47,9 @@ My work follows a **"Data-to-Ink Ratio"** optimization strategy:
    ```bash
    pip install pandas matplotlib seaborn
    jupyter notebook
+
+
+   ## 👤 Author
+**Portfolio Owner:** Aditi Verma
+
+**Program:** Cisco Data Science Professional Track
