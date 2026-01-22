@@ -19,31 +19,34 @@ The project utilizes a dataset containing every #1 hit song from **1923 to 2023*
 
 ---
 
-## Technical Workflow & Tools
+## Technical Workflow
 
-### Tech Stack
-* **Language:** Python 
-* **Libraries:** Pandas (Data Manipulation), Matplotlib (Visualization).
-* **Environment:** Jupyter Notebook / Google Colab.
+### 1. Data Loading & Inspection
+* **Source:** `top-song-durations.csv` covering years 1923–2023.
+* Utilized `pandas` for data ingestion and initial exploratory data analysis (EDA).
 
-### Key Data Engineering Steps
-1.  **Format Conversion:** To perform calculations, the `duration` column was parsed from a string format to `total_seconds`.
-2.  **Statistical Segmentation:** The data was split at 1968 to compare "classic" era durations against "modern" trends.
-3.  **Handling Extremes:** Identified outliers and historical anomalies (e.g., extremely short hits during the 1920s).
+### 2. Data Cleaning & Feature Engineering
+* **Type Conversion:** Converted raw `duration` strings (MM:SS) into a numeric `total_seconds` format to enable mathematical analysis.
+* **Optimization:** Used `df.convert_dtypes()` to ensure high-performance computation in `pandas`.
+
+### 3. Exploratory Data Analysis (EDA)
+* Identified outliers, such as the shortest and longest songs in the dataset.
+* Segmented data into historical epochs (Pre-1968 vs. Post-1968) to test hypotheses regarding duration shifts.
+
+### 4. Data Visualization
+* Mapped the progression of song lengths over a 100-year timeline using `matplotlib`.
 
 ---
 
-## Key Insights
-* **Significant Growth:** There is a marked difference in song length over the century. The average duration **before 1968 was ~172.64 seconds**, whereas in **1968 or later, it increased to ~230.48 seconds**.
-* **The 1968 Turning Point:** This year serves as a statistical "pivot," likely reflecting changes in recording technology (LP vs. 45s) and creative shifts in the music industry.
+## Key Insights & Results
 
----
+| Metric | Observation |
+| :--- | :--- |
+| **Shortest Hit** | *"Sonny Boy"* by Al Jolson (1928) - **115 seconds** |
+| **Average Duration (Pre-1968)** | **172.64 seconds** (~2.8 minutes) |
+| **Average Duration (Post-1968)** | **230.48 seconds** (~3.8 minutes) |
 
-## Learner-Friendly Guide
-If you are new to Data Science, this notebook demonstrates:
-1.  How to use `.convert_dtypes()` for cleaner dataframes.
-2.  Using `.query()` for quick data filtering.
-3.  How to troubleshoot plotting errors when dealing with non-numeric data types.
+**Key Finding:** The data reveals a significant **33% increase** in average song duration for number-one hits after 1968 compared to the preceding 45 years. While early hits were constrained by the physical limits of 78-rpm records, modern hits saw a peak in duration before the recent streaming-era "short-song" trend began to emerge.
 
 ---
 
