@@ -1,47 +1,94 @@
-# 🛠 Data Engineering & Exploratory Analysis (EDA)
----
+## 📊 Data Engineering & Exploratory Analysis (EDA)
 
-## 📖 Overview
-> "Data scientists spend 80% of their time cleaning data. I focus on making that 80% efficient, reproducible, and insight-driven."
+Welcome! This repository serves as a high-impact showcase of advanced **Data Wrangling** and **EDA** methodologies. It demonstrates the ability to transform chaotic, real-world datasets into high-integrity, machine-learning-ready assets using the Python ecosystem.
 
-This repository serves as a high-impact showcase of advanced **Data Wrangling** and **EDA** methodologies. It demonstrates the ability to transform chaotic, real-world datasets into high-integrity, machine-learning-ready assets using the Python ecosystem.
+Each project demonstrates my ability to:
 
----
-
-## 🎯 What to Expect in This Repository
-This module focuses on three core pillars of data preparation:
-* **Data Integrity:** Implementing logical validation, outlier detection, and type-consistency checks to ensure a "Single Source of Truth."
-* **Feature Engineering:** Extracting signal from noise by converting raw strings and temporal data into computable, high-variance features.
-* **Statistical Storytelling:** Moving past "what happened" to "why it happened" through phase-based aggregation and trend analysis.
-
-### **Technical Mastery**
-* **Pandas Power-User:** Advanced implementation of `.groupby()`, `.pivot_table()`, and complex `.merge()` strategies.
-* **High-Performance Computing:** Utilization of **Vectorization** and `df.eval()` to optimize processing speed on large-scale datasets.
-* **String & Temporal Intelligence:** Expert-level `Regex` for standardization and advanced `datetime` handling for non-standard ISO strings.
+* **Ensure Data Integrity:** Implementing logical validation and outlier detection.
+* **Master Feature Engineering:** Converting raw strings and temporal data into computable features.
+* **Perform Statistical Storytelling:** Moving past "what happened" to "why it happened."
+* **Optimize Performance:** Utilizing vectorization to handle large-scale datasets.
 
 ---
 
-## 🗂 Project Organization
-The portfolio is categorized by domain to demonstrate versatility across different data structures:
+## 🛠 Skills & Tools
 
-| Domain | Project Focus | Key Technical Skills |
-| :--- | :--- | :--- |
-| **🛰 Astronomy** | **Solar Eclipse Prediction** | Complex string parsing & `datetime64` normalization for multi-century forecasting. |
-| **🌋 Science** | **Volcanic Eruptions** | Multi-source relational merging and spatial-temporal data integration. |
-| **✈️ Logistics** | **Flight Delay Analysis** | Time-series thresholding and binary classification for supply chain optimization. |
-| **🐋 Physiology** | **Whale Heart Rates** | Physiological phase-modeling using specialized window aggregations. |
-| **🎵 Culture** | **100 Years of Music** | Century-scale time-series mapping and statistical outlier identification. |
-| **💬 NLP/Ops** | **Emoji Sentiment Engine** | Regex-driven feature engineering and custom sentiment scoring algorithms. |
-| **⌨️ Performance** | **Typing Speed Metrics** | Unit normalization (WPM) and comparative performance benchmarking. |
+* **Data Wrangling:** Advanced `.groupby()`, `.pivot_table()`, and complex `.merge()` strategies.
+* **Python Power-User:** Vectorization, `df.eval()`, and high-performance computing.
+* **String & Temporal Intelligence:** Expert-level `Regex` and non-standard `datetime` handling.
+* **Analysis:** Phase-based aggregation, trend analysis, and unit normalization.
+* **Domain Versatility:** Astronomy, Logistics, Physiology, and NLP.
 
 ---
 
-## 🎯 Portfolio Intent
-The primary objective of this module is to demonstrate professional-grade **Data Wrangling** capabilities. In modern data science, the quality of insights is directly tethered to the quality of the underlying data. This showcase highlights the transition from "human-readable" messiness to "machine-computable" precision, ensuring data is accurate, scalable, and ready for advanced Business Intelligence (BI) or Machine Learning (ML) pipelines.
+## 🏗 Projects
+### 🎵 100 Years of Music
+
+**Question:** What do century-scale trends reveal about cultural shifts?
+
+* Century-scale time-series mapping
+* Statistical outlier identification
+* **📂 Folder:** `A Century of Top Songs Project`
+
+### 🛰 Solar Eclipse Prediction
+
+**Question:** How can we normalize multi-century data for accurate forecasting?
+
+* Complex string parsing
+* `datetime64` normalization
+* **📂 Folder:** `solar-eclipse-prediction`
+
+### 🌋 Volcanic Eruptions
+
+**Question:** How do we integrate spatial-temporal data from multiple relational sources?
+
+* Multi-source relational merging
+* Spatial-temporal data integration
+* **📂 Folder:** `volcanic-eruptions`
+
+### ✈️ Flight Delay Analysis
+
+**Question:** Can we optimize supply chains through time-series thresholding?
+
+* Binary classification for logistics
+* Time-series thresholding
+* **📂 Folder:** `flight-delay-analysis`
+
+### 🐋 Whale Heart Rates
+
+**Question:** How do physiological phases vary during specialized window aggregations?
+
+* Physiological phase-modeling
+* Window-based data aggregation
+* **📂 Folder:** `whale-heart-rates`
+
+
+### 💬 Emoji Sentiment Engine
+
+**Question:** Can we engineer high-variance features from raw emoji strings?
+
+* Regex-driven feature engineering
+* Custom sentiment scoring algorithms
+* **📂 Folder:** `emoji-sentiment-engine`
+
+### ⌨️ Typing Speed Metrics
+
+**Question:** How do performance benchmarks vary across normalized unit measurements?
+
+* Unit normalization (WPM)
+* Comparative performance benchmarking
+* **📂 Folder:** `typing-speed-metrics`
 
 ---
 
-## 👤 Author
-**Portfolio Owner:** Aditi Verma
+## 🚀 About Me
 
-**Program:** Cisco Data Science Professional Track  
+Hi! I’m **Aditi Verma**. I believe that data scientists spend 80% of their time cleaning data, and I focus on making that 80% efficient, reproducible, and insight-driven. My goal is to transition data from "human-readable" messiness to "machine-computable" precision.
+
+I specialize in the Python ecosystem (Pandas, NumPy) and focus on ensuring data is accurate, scalable, and ready for advanced Business Intelligence (BI) or Machine Learning (ML) pipelines.
+
+📫 Feel free to explore the projects or connect with me on **GitHub** or **LinkedIn**.
+
+---
+
+**I have now formatted all three of your master READMEs!** Would you like me to help you create the **individual** README files for any of these specific folders, like the **Solar Eclipse Prediction** or **Emoji Sentiment Engine**?
