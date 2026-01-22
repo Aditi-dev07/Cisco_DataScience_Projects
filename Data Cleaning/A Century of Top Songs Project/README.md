@@ -1,98 +1,63 @@
-☕ Data-Driven Strategy: Launching a Plant-Based Coffee Shop
-
+# 🎵 A Century of Top Songs: Data Analysis Project
 ## 📌 Project Overview
+What makes a song a #1 hit? Does duration play a role in a song's success? This project explores a century of musical evolution (1923–2023), specifically analyzing how the length of chart-topping hits has shifted over time. From the "Roaring 20s" to the streaming era, this analysis uncovers the patterns behind the world's most popular music.
 
-This repository contains end-to-end data analysis projects focused on transforming raw data into actionable insights. These projects demonstrate a strong proficiency in **Python**, **Pandas**, and **Matplotlib**, covering two distinct domains:
-
-1. **Specialty Coffee Market Analysis:** Using survey data to build a launch strategy for a plant-based cafe.
-2. **Cultural Analytics:** Analyzing a century of music to identify industry-wide shifts in song production.
-
----
-
-## 🎯 Objectives
-
-* **Business Intelligence:** Translate raw survey responses into inventory and marketing recommendations.
-* **Time-Series Analysis:** Quantify the evolution of media (music) over a 100-year span.
-* **Data Engineering:** Clean and restructure complex datasets (110+ columns) for statistical reliability.
+### 🎯 Objectives
+* **Data Cleaning:** Transform raw duration strings (HH:MM:SS) into numerical formats for statistical analysis.
+* **Trend Analysis:** Compare average song durations across different historical eras (pre-1968 vs. post-1968).
+* **Visualization:** Graph the evolution of song lengths to identify shifts in listener preferences and industry standards.
 
 ---
 
-## 📊 The Datasets
-
-* **`coffee-survey-results.csv`**: A high-dimensional dataset containing ~1,000 responses from coffee enthusiasts, covering demographics, brewing habits, and ingredient preferences.
-* **`top-song-durations.csv`**: A historical record of every #1 hit song from 1923 to 2023, featuring artist metadata and song lengths.
-
----
-
-## 🛠️ Technical Workflow
-
-*A step-by-step breakdown of the analytical process for learners and peers.*
-
-### 1. Data Cleaning
-
-* **Feature Selection:** Sliced large datasets to isolate relevant variables (e.g., extracting 5 key columns from a 113-column survey).
-* **Handling Nulls:** Utilized `.dropna()` strategically to ensure demographic averages remained accurate.
-* **Type Casting:** Converted string-based durations (HH:MM:SS) into numerical `total_seconds` to allow for mathematical modeling.
-
-### 2. Feature Engineering
-
-* **Categorical Encoding:** Mapped qualitative survey data (e.g., "1 cup") to quantitative floats (1.0) for statistical analysis.
-* **Temporal Binning:** Segmented 100 years of data into "Eras" (Pre vs. Post-1968) to compare historical industry standards.
-
-### 3. Exploratory Data Analysis (EDA)
-
-* **Aggregation:** Applied `.groupby()` and `.mean()` to profile consumption habits across age ranges.
-* **Visualization:** Developed sorted bar charts to provide immediate visual hierarchy of consumer preferences.
+## 📊 The Dataset
+The project utilizes a dataset containing every #1 hit song from **1923 to 2023**.
+* **Source:** `top-song-durations.csv`
+* **Key Features:** `year`, `artist`, `title`, and `duration`.
+* **Highlights:** * **Shortest Song:** "Sonny Boy" by Al Jolson (1928) - 1 minute 55 seconds.
+    * **Modern Reference:** "Last Night" by Morgan Wallen (2023) - 2 minutes 43 seconds.
 
 ---
 
-## 📈 Key Insights & Results
+## 🛠️ Technical Workflow & Tools
 
-### **Market Analysis: The Plant-Based Cafe**
+### Tech Stack
+* **Language:** Python 🐍
+* **Libraries:** Pandas (Data Manipulation), Matplotlib (Visualization).
+* **Environment:** Jupyter Notebook / Google Colab.
 
-| Category | Finding | Strategic Recommendation |
-| --- | --- | --- |
-| **Top Sweetener** | **Granulated Sugar** | **63.9%** preference; prioritize as primary stock. |
-| **Growth Demo** | **55-64 Year Olds** | Highest consumption (**2.1 cups/day**); target for loyalty programs. |
-| **Specialty Trend** | **Raw & Brown Sugar** | **>25%** interest; essential for "specialty" branding. |
-
-### **Music Trends: The 100-Year Shift**
-
-* **The 1968 Pivot:** Identified a significant increase in song length. Average durations rose from **172.64s** (Pre-1968) to **230.48s** (Modern Era).
-* **Historical Extreme:** The shortest #1 hit was identified as "Sonny Boy" (1928), lasting only **1 minute 55 seconds**.
+### Key Data Engineering Steps
+1.  **Format Conversion:** To perform calculations, the `duration` column was parsed from a string format to `total_seconds`.
+2.  **Statistical Segmentation:** The data was split at 1968 to compare "classic" era durations against "modern" trends.
+3.  **Handling Extremes:** Identified outliers and historical anomalies (e.g., extremely short hits during the 1920s).
 
 ---
 
-## 🖼️ Visualizations
+## 📈 Key Insights
+* **Significant Growth:** There is a marked difference in song length over the century. The average duration **before 1968 was ~172.64 seconds**, whereas in **1968 or later, it increased to ~230.48 seconds**.
+* **The 1968 Turning Point:** This year serves as a statistical "pivot," likely reflecting changes in recording technology (LP vs. 45s) and creative shifts in the music industry.
 
-*(Note: Visuals are generated within the .ipynb files)*
+---
 
-> **[Graph: Sweetener Popularity Ranking]** > *A visualization used to justify inventory spending.*
-
-> **[Graph: Music Duration Over Time]** > *A trend line showing the steady increase in song length as recording technology evolved.*
+## 👨‍💻 Learner-Friendly Guide
+If you are new to Data Science, this notebook demonstrates:
+1.  How to use `.convert_dtypes()` for cleaner dataframes.
+2.  Using `.query()` for quick data filtering.
+3.  How to troubleshoot plotting errors when dealing with non-numeric data types.
 
 ---
 
 ## 🚀 How to Run
-
-### Option 1: Local Environment
-
-1. Clone the repo: `git clone https://github.com/Aditi-dev07/Cisco_DataScience_Projects.git`
-2. Install requirements: `pip install pandas matplotlib`
-3. Run `jupyter notebook` and open the desired `.ipynb` file.
-
-### Option 2: Google Colab
-
-1. Click the **"Open in Colab"** badge at the top of the notebook.
-2. Upload the corresponding `.csv` file when prompted by the `files.upload()` cell.
+1. Clone this repository.
+2. Ensure you have `pandas` and `matplotlib` installed: `pip install pandas matplotlib`.
+3. Open `top-songs-project.ipynb` in your preferred editor.
+4. Upload `top-song-durations.csv` when prompted.
 
 ---
 
 ## 💼 Recruiter Quick-View
+* **Problem-Solving:** Addressed data type constraints to enable time-series analysis.
+* **Analytical Thinking:** Segmented 100 years of data to identify distinct historical trends.
+* **Communication:** Clearly documented findings through integrated markdown and visual storytelling.
 
-* **Problem Solving:** Demonstrated ability to clean "messy" real-world survey data.
-* **Business Acumen:** Insights are framed as "Strategic Recommendations" rather than just numbers.
-* **Tooling:** Expert use of the Python Data Science stack (Pandas/Matplotlib).
-* **Communication:** Clearly documented workflow from raw data to final visualization.
 ---
 *Created as part of the Cisco Data Science Projects collection.*
