@@ -42,7 +42,7 @@ Each project is housed in its own directory with the following structure:
 * `README.md`: A detailed breakdown of that specific project's methodology and findings.
 
 ---
+   ## 👤 Author
+**Portfolio Owner:** Aditi Verma
 
-## 🚀 How to Use This Repository
-1. **Clone the Repo:** ```bash
-   git clone : https://github.com/Aditi-dev07/Cisco_DataScience_Projects/edit/main/Data%20Modeling
+**Program:** Cisco Data Science Professional Track  
