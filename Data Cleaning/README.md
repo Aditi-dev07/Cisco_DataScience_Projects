@@ -22,63 +22,64 @@ Each project demonstrates my ability to:
 ---
 
 ## 🏗 Projects
-### 🎵 100 Years of Music
 
+### 🎵 100 Years of Music
 **Question:** What do century-scale trends reveal about cultural shifts?
 
 * Century-scale time-series mapping
 * Statistical outlier identification
 * **📂 Folder:** `A Century of Top Songs Project`
 
-### 🛰 Solar Eclipse Prediction
+### 🥛 Plant-Based Coffee Strategy
+**Question:** What is the optimal inventory and demographic target for a plant-based coffee shop?
 
-**Question:** How can we normalize multi-century data for accurate forecasting?
+* **Sweetener Analysis:** Identifies Granulated Sugar (63.9%) and Brown Sugar (26.5%) as inventory essentials.
+* **Demographic Profiling:** Reveals the 55–64 age cohort as the highest consumers (2.1 cups/day).
+* **Market Mapping:** Identifying 18–34-year-olds as key cohorts for dairy alternatives.
+* **📂 Folder:** `A plant-based-coffee-shop`
 
-* Complex string parsing
-* `datetime64` normalization
-* **📂 Folder:** `solar-eclipse-prediction`
+### 💬 Emoji Sentiment Engine
+**Question:** Can we engineer high-variance features from raw emoji strings?
 
-### 🌋 Volcanic Eruptions
-
-**Question:** How do we integrate spatial-temporal data from multiple relational sources?
-
-* Multi-source relational merging
-* Spatial-temporal data integration
-* **📂 Folder:** `volcanic-eruptions`
+* Regex-driven feature engineering
+* Custom sentiment scoring algorithms
+* **📂 Folder:** `Emoji Sentiment `
 
 ### ✈️ Flight Delay Analysis
-
 **Question:** Can we optimize supply chains through time-series thresholding?
 
 * Binary classification for logistics
 * Time-series thresholding
 * **📂 Folder:** `flight-delay-analysis`
 
-### 🐋 Whale Heart Rates
+### 🛰 Solar Eclipse Prediction
+**Question:** How can we normalize multi-century data for accurate forecasting?
 
-**Question:** How do physiological phases vary during specialized window aggregations?
-
-* Physiological phase-modeling
-* Window-based data aggregation
-* **📂 Folder:** `whale-heart-rates`
-
-
-### 💬 Emoji Sentiment Engine
-
-**Question:** Can we engineer high-variance features from raw emoji strings?
-
-* Regex-driven feature engineering
-* Custom sentiment scoring algorithms
-* **📂 Folder:** `emoji-sentiment-engine`
+* Complex string parsing
+* `datetime64` normalization
+* **📂 Folder:** `solar-eclipse-prediction`
 
 ### ⌨️ Typing Speed Metrics
-
 **Question:** How do performance benchmarks vary across normalized unit measurements?
 
 * Unit normalization (WPM)
 * Comparative performance benchmarking
 * **📂 Folder:** `typing-speed-metrics`
 
+### 🌋 Volcanic Eruptions
+**Question:** How do we integrate spatial-temporal data from multiple relational sources?
+
+* Multi-source relational merging
+* Spatial-temporal data integration
+* **📂 Folder:** `volcanic-eruptions`
+
+
+### 🐋 Whale Heart Rates
+**Question:** How do physiological phases vary during specialized window aggregations?
+
+* Physiological phase-modeling
+* Window-based data aggregation
+* **📂 Folder:** `whale-heart-rates`
 ---
 
 ## 🚀 About Me
