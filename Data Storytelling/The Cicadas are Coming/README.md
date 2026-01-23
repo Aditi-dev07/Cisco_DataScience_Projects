@@ -101,6 +101,4 @@ This project demonstrates the ability to:
 * Align external real-world events with data trends
 * Detect and interpret cyclical temporal patterns
 * Use data to explain how public attention behaves over time
-
-It highlights strong analytical intuition and the ability to turn unusual natural phenomena into clear, interpretable insights using data.
 ---
