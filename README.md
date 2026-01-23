@@ -1,6 +1,6 @@
 
 ## 🌌 DATA INTELLIGENCE ARCHIVE
-### *CISCO DATA SCIENCE PROFESSIONAL*
+### *CCisco Data Science Essentials*
 ### *Architect of Data | Storyteller of Insights* > **Bridging the gap between raw data chaos and machine-ready intelligence.**
 
 ---
@@ -114,4 +114,9 @@ Strategic Color: Using pigment only to highlight the "Main Story."
 
 ### About Me
 
-I am passionate about turning raw data into actionable insights through rigorous modeling and storytelling. With a background in **MCA** and a focus on the **Cisco Data Science Track**, I am constantly learning new ways to build more accurate predictive models and cleaner data pipelines.
+I am Aditi Verma passionate about turning raw data into actionable insights through rigorous modeling and storytelling. With a background in **MCA** and a focus on the **Cisco Data Science Track**, I am constantly learning new ways to build more accurate predictive models and cleaner data pipelines.
+
+- LinkedIn: www.linkedin.com/in/aditi-verma07
+- Email: aaditi08verma@gmail.com
+- Full Repo: Cisco_DataScience_Projects
+
