@@ -27,7 +27,7 @@
 
 ---
 
-### 2.  Data Engineering & EDA
+### 2.  Data Cleaning & EDA
 
 *Transforming messy, "human-readable" data into high-performance, machine-ready intelligence.*
 
@@ -118,5 +118,5 @@ I am Aditi Verma passionate about turning raw data into actionable insights thro
 
 - LinkedIn: www.linkedin.com/in/aditi-verma07
 - Email: aaditi08verma@gmail.com
-- Full Repo: Cisco_DataScience_Projects
+- Full Repo: [Cisco_DataScience_Projects](https://github.com/Aditi-dev07/Cisco_DataScience_Projects)
 
