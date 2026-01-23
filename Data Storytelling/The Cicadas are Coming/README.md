@@ -60,11 +60,6 @@ The analysis includes:
 - Line plots of cicada-related word usage over time  
 - Vertical markers highlighting known emergence years  
 - Visual comparison of spike magnitude and duration  
-
-```markdown
-![Cicada Word Frequency Trends](images/cicada_trends.png)
-````
-
 ---
 
 ### **🧭 Interpretation Focus**
