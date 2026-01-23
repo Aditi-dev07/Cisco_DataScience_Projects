@@ -1,9 +1,3 @@
-This project is fascinating because it tackles a **data paradox**: why would mentions of beautiful, ecologically vital fish suddenly plummet just as the world started paying more attention to the oceans?
-
-Here is the creative README for your second storytelling project.
-
----
-
 # **🐠 The Coral Conundrum: Solving the 1998 Frequency Mystery**
 
 ### **📜 The Narrative**
