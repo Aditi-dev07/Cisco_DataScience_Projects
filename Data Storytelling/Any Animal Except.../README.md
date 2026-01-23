@@ -40,5 +40,3 @@ To prove the connection between physical presence and linguistic shift, I utiliz
 * **Functionality:** Custom time-series plotting with `axvspan` temporal highlighting.
 
 ---
-
-**This project is ready! Please share the details or upload the notebook for the next storytelling project so I can create the next one in this style.**
