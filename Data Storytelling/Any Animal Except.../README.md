@@ -24,6 +24,17 @@ To prove the connection between physical presence and linguistic shift, I utiliz
 * **Comparative Logic:** Using a control group of "Difficult-to-Exhibit" animals to isolate the variable of physical exhibition.
 
 ---
+## ** Visual Insights & Analysis**
+The following visualization was generated to test the linguistic impact of physical exhibition:
+
+Linguistic Trends of the 'Tiger'
+
+<img width="810" height="356" alt="Screenshot 2026-01-23 143738" src="https://github.com/user-attachments/assets/8e680486-4fc8-4ba7-ae14-d1393f620498" />
+
+Data Analysis:
+The Exhibition Spike: The word "tiger" shows a clear upward trend coinciding with the Menagerie Period (1750–1835). This suggests that seeing the animal in person drove its popularity in literature.
+The "Difficult" Outliers: Animals like the chimpanzee, meerkat, and penguin were identified as "difficult" to exhibit during this era.
+Hypothesis Confirmation: As predicted, these difficult animals do not show a significant frequency increase during the menagerie window, whereas exhibited animals like the hyena and ostrich do
 
 ### **📈 Discovery & Insights**
 
