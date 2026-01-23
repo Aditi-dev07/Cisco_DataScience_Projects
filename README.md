@@ -1,6 +1,6 @@
 
 ## 🌌 DATA INTELLIGENCE ARCHIVE
-### *CCisco Data Science Essentials*
+### *Cisco Data Science Essentials*
 ### *Architect of Data | Storyteller of Insights* > **Bridging the gap between raw data chaos and machine-ready intelligence.**
 
 ---
