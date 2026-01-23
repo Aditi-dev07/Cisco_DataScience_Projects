@@ -1,4 +1,4 @@
-## 🐦 **Project 5: Silent Spring**
+## 🐦 **Silent Spring**
 ### **How a Single Book Changed the Way We Talk About Nature**
 
 ---
