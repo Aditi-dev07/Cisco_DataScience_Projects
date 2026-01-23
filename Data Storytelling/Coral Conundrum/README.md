@@ -25,6 +25,22 @@ To solve the mystery, I employed:
 * **Digital Access Modeling:** Analyzing the impact of internet consolidation on how information about niche biological species is consumed and recorded.
 
 ---
+## **📊 Visual Insights & Analysis**
+
+The following visualization tracks the frequency of fish species names across three centuries of literature.
+
+The Great Decline of 1998
+
+<img width="893" height="472" alt="image" src="https://github.com/user-attachments/assets/34fa778e-5064-4530-b041-e70fc6ca341d" />
+
+Deep Dive Analysis
+The 1998 Inflection Point: Almost all analyzed fish species (e.g., Clownfish, Parrotfish) show a peak in the mid-1990s followed by a steep, unexplained drop in 1998.
+
+Internet vs. Reality: While 1998 was the "International Year of the Ocean," the decline is too consistent across unrelated species to be purely environmental.
+
+Digital Outliers: The analysis explores if "Digital Access" changed the data. As the internet grew, the way books were digitized or the way "frequency" was calculated in global corpora (like Google Ngrams) shifted, creating a statistical "outlier" period where traditional word frequency appears to crash.
+
+---
 
 ### **📈 Discovery & Insights**
 
@@ -41,3 +57,24 @@ To solve the mystery, I employed:
 * **Analytical Framework:** Multi-factor explanation modeling (Environmental, Technological, and Cultural factors).
 
 ---
+
+## 🚀 How to Run
+
+1. **Navigate to the project directory:**
+```bash
+cd "Data Storytelling/Coral Conundrum"
+
+```
+2. **Install Dependencies:**
+```bash
+pip install pandas matplotlib
+
+```
+3. **Execute the Analysis:**
+Open the Jupyter Notebook and run all cells to see the 1998 drop:
+```bash
+jupyter notebook coral-conundrum.ipynb
+
+```
+---
+Created as part of the Cisco Data Science Projects collection.
