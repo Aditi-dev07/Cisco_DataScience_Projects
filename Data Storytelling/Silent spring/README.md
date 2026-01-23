@@ -97,7 +97,4 @@ This project demonstrates the ability to:
 * Use data to analyze cultural and intellectual influence
 * Frame analysis around a real-world historical event
 * Translate abstract societal change into measurable linguistic patterns
-
-It highlights an essential data science skill: connecting quantitative trends with historical context to produce meaningful, interpretable insights.
-
-```
+---
